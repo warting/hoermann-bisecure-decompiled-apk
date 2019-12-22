@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.732" viewWidth="141.732" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.732" d:pageWidth="141.732" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="d45cb00" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group y="37.5752" ai:objID="12131080" ai:seqID="3">
+        <Path y="3" winding="nonZero" ai:objID="120ded80" ai:seqID="4" data="M0 98.8916 18.5728 98.8916 18.5728 0 125.014 0 125.014 98.8916 140.867 98.8916">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Group x="24.6118" y="81.5098" ai:objID="1215f480" ai:seqID="5" flm:knockout="false">
+          <Rect width="94.3633" height="22.6475" radiusX="3.00775" radiusY="3.00775" ai:objID="120df500" ai:seqID="6">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Rect>
+        </Group>
+        <Group x="24.6118" y="57.3525" ai:objID="1215f580" ai:seqID="7" flm:knockout="false">
+          <Rect width="94.3633" height="22.6475" radiusX="3.00775" radiusY="3.00775" ai:objID="120df680" ai:seqID="8">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Rect>
+        </Group>
+        <Group x="24.6118" y="33.1963" ai:objID="1215fd80" ai:seqID="9" flm:knockout="false">
+          <Rect width="94.3633" height="22.6475" radiusX="3.00775" radiusY="3.00775" ai:objID="120dfb00" ai:seqID="10">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Rect>
+        </Group>
+        <Group x="24.6118" y="9.03906" ai:objID="12130a80" ai:seqID="11" flm:knockout="false">
+          <Rect width="94.3633" height="22.647" radiusX="3.00775" radiusY="3.00775" ai:objID="120e0100" ai:seqID="12">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Rect>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B includeXMP 0 I versionKey 2 B aiEditCap 1 B writeImages 1 B includeSymbol 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 B downsampleLinkedImages 0 I expandBlendsOption 5 I preserveGradientPolicy 4 I rasterizeResolution 72 B includeObjectOutsideArtboard 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="SECTIONAL_DOOR.assets/images" globalOffsetH="226.133" globalOffsetV="-350.634" rulerCanvasDiffH="298.5" rulerCanvasDiffV="421.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="34AAF42BFF4298B4AF7955C8A9DFAF4C" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

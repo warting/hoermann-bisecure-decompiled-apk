@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group visible="false" ai:objID="1055b080" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 3">
+      <Rect x="-60" y="-45" width="763" height="290" ai:objID="e669d80" ai:seqID="3">
+        <fill>
+          <SolidColor color="#FF9292"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Rect>
+    </Group>
+    <Group ai:objID="1055b780" ai:seqID="4" d:id="3" d:type="layer" d:userLabel="Ebene 2">
+      <Group y="34.3174" ai:objID="10554880" ai:seqID="5">
+        <Group y="23.7744" ai:objID="1055bd80" ai:seqID="6">
+          <Path y="4.50537" winding="nonZero" ai:objID="10b6be80" ai:seqID="7" data="M0 73.4497 453.138 73.4497 453.138 0 436 0">
+            <stroke>
+              <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+            </stroke>
+          </Path>
+          <Path x="595.142" y="4.50537" winding="nonZero" ai:objID="10afe180" ai:seqID="8" data="M17.1387 73.4497 0 73.4497 0 0 17.1387 0">
+            <stroke>
+              <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+            </stroke>
+          </Path>
+          <Group x="462.932" ai:objID="1055d480" ai:seqID="9" flm:knockout="false" d:id="4">
+            <Path y="4.19617e-005" winding="nonZero" ai:objID="10b0bc80" ai:seqID="10" data="M11.3838 0.123981C11.8555 -0.159222 12.2412 0.0595284 12.2412 0.609333L12.2412 72.0595C12.2412 72.6093 11.8555 73.291 11.3838 73.5742L0.857422 79.8896C0.385742 80.1728 0 79.9541 0 79.4043L0 7.95455C0 7.40474 0.385742 6.7231 0.857422 6.4399L11.3838
+ 0.123981Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+          <Group x="573.106" ai:objID="1055a080" ai:seqID="11" flm:knockout="false" d:id="5">
+            <Path y="4.19617e-005" winding="nonZero" ai:objID="10afdd00" ai:seqID="12" data="M11.3857 6.4399C11.8574 6.7231 12.2432 7.40474 12.2432 7.95455L12.2432 79.4043C12.2432 79.9541 11.8574 80.1728 11.3857 79.8896L0.857422 73.5742C0.385742 73.291 0 72.6093 0 72.0595L0 0.609333C0 0.0595284 0.385742 -0.159222 0.857422 0.123981L11.3857
+ 6.4399Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+        </Group>
+        <Group x="495.59" ai:objID="10557f80" ai:seqID="13" flm:knockout="false">
+          <Path winding="nonZero" ai:objID="10b08c80" ai:seqID="14" data="M0 29.8682C0 11.8735 11.2607 0 29.3809 0 44.3145 0 56.0674 8.93262 56.0674 24.7271 56.0674 36.3569 50.5586 40.3975 45.2959 45.0508 39.0537 50.3154 34.5195 53.9883 34.5195 65.7422L21.3008 65.7422C21.3008 51.5391 24.3613 46.3945 30.8477 40.8848
+ 35.9932 36.3569 40.7656 33.4209 40.7656 25.2148 40.7656 15.3018 33.0537 11.6294 28.7676 11.6294 18.6064 11.6294 13.9561 18.731 13.9561 29.8682L0 29.8682ZM19.4648 74.1865 35.8701 74.1865 35.8701 89.4883 19.4648 89.4883 19.4648 74.1865Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I rasterizeResolution 72 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I expandBlendsOption 5 B downsampleLinkedImages 0 B aiEditCap 1 I versionKey 2 B includeXMP 0 B writeImages 1 B includeSymbol 0 B includeObjectOutsideArtboard 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="SWING_GATE_DOUBLE.assets/images" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="2C275C581237390E0351C0F4065749C0" d:ref="#2">
+        <ai:LayerOptions color="5 257 79.31 79.31" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="D2FEC0EA1D3BF8F26D745651B9BEBAE6" d:ref="#3">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="E1AD0227C16D6FBD5DAF16E110F88D0C" d:ref="#4">
+        <ai:Path data="M 475.173 -0.391L 475.173 73.06L 462.932 80.404L 462.932 6.955L 475.173 -0.391Z" knockout="0">
+          <ai:ArtStyle>
+            <ai:PaintFields>
+              <ai:Stroke focus="1" miterLimit="10" weight="1"/>
+              <ai:Fill color="5 1 1 1" focus="1" overprint="1"/>
+            </ai:PaintFields>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Round Corners">
+                <ai:Dict data="R radius 1 "/>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Path>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="03D37D24AD0083C262438D8C41B6FE95" d:ref="#5">
+        <ai:Path data="M 585.35 6.955L 585.35 80.404L 573.106 73.06L 573.106 -0.391L 585.35 6.955Z" knockout="0">
+          <ai:ArtStyle>
+            <ai:PaintFields>
+              <ai:Stroke focus="1" miterLimit="10" weight="1"/>
+              <ai:Fill color="5 1 1 1" focus="1" overprint="1"/>
+            </ai:PaintFields>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Round Corners">
+                <ai:Dict data="R radius 1 "/>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Path>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group d:type="layer" d:userLabel="Ebene 1">
+      <Group x="503" y="12" ai:seqID="1" flm:knockout="false">
+        <Rect width="80" height="126" ai:seqID="2">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Rect>
+      </Group>
+      <Path y="5" winding="nonZero" ai:seqID="3" data="M0 131 495 131 495 0 591 0 591 131 612 131">
+        <stroke>
+          <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+        </stroke>
+      </Path>
+      <Group x="524" y="50.0996" ai:seqID="4">
+        <Group x="5" ai:seqID="5" flm:knockout="false">
+          <Path winding="nonZero" ai:seqID="6" data="M26.498 19.2012C25.6064 19.2012 25 18.4766 25 17.5898L25 15.3594C25 8.66992 20.1582 3.22852 13.998 3.22852 7.83398 3.22852 3 8.66992 3 15.3594L3 17.5898C3 18.4766 2.39063 19.2012 1.50391 19.2012 0.609375 19.2012 0 18.4766 0 17.5898L0 15.3594C0
+ 6.89063 6.05859 0 14.002 0 21.9385 0 28 6.89063 28 15.3594L28 17.5898C28 18.4766 27.3877 19.2012 26.498 19.2012Z">
+            <fill>
+              <SolidColor color="#003A7D"/>
+            </fill>
+          </Path>
+        </Group>
+        <Path y="22.9004" winding="nonZero" ai:seqID="7" data="M30.7793 0 7.2207 0C3.12891 0 0 2.73047 0 6.70313L0 19.4961C0 23.4688 3.12891 27 7.2207 27L30.7793 27C34.8711 27 38 23.4688 38 19.4961L38 6.70313C38 2.73047 34.8711 0 30.7793 0ZM21 13.4492 21 16.4229C21 17.8955 20.2666 19.1055 19 19.1055 17.7295
+ 19.1055 17 17.8955 17 16.4229L17 13.4492C16 12.793 15.4648 11.8018 15.4648 10.6758 15.4648 8.69336 17.0391 7.09375 19.0762 7.09375 21.1152 7.09375 22.5742 8.69336 22.5742 10.6758 22.5742 11.8018 22 12.793 21 13.4492Z">
+          <fill>
+            <SolidColor color="#003A7D"/>
+          </fill>
+        </Path>
+      </Group>
+      <Rect x="513" y="45" width="4" height="60" ai:seqID="8">
+        <fill>
+          <SolidColor color="#003A7D"/>
+        </fill>
+      </Rect>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

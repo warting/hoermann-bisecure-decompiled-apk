@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.732" viewWidth="141.732" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.732" d:pageWidth="141.732" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group visible="false" ai:objID="d655800" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 2">
+      <Rect x="-68.1328" y="-45.6338" width="314" height="260" ai:objID="10cff000" ai:seqID="3">
+        <fill>
+          <SolidColor color="#FF7878"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Rect>
+    </Group>
+    <Group ai:objID="105aab00" ai:seqID="4" d:id="3" d:type="layer" d:userLabel="Ebene 1">
+      <Group y="37.5752" ai:objID="d657500" ai:seqID="5">
+        <Path y="3" winding="nonZero" ai:objID="10d02000" ai:seqID="6" data="M0 98.8916 18.5728 98.8916 18.5728 0 125.017 0 125.017 98.8916 140.867 98.8916">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Group x="24.6118" y="9.03906" ai:objID="d64eb00" ai:seqID="7" flm:knockout="false">
+          <Rect width="94.3638" height="7.64746" radiusX="3.00775" radiusY="3.00775" ai:objID="10d01880" ai:seqID="8">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Rect>
+        </Group>
+      </Group>
+      <Group x="36.0757" y="62.3662" ai:objID="10d25580" ai:seqID="9">
+        <Group ai:objID="10d25380" ai:seqID="10">
+          <Group ai:objID="10d25280" ai:seqID="11">
+            <Path ai:objID="10cc5f00" ai:seqID="12" data="M33.4336 28.0068C33.9839 27.4346 34.5239 26.8486 35.0913 26.2969 39.4438 22.0557 41.4927 16.6748 41.9888 10.5254 42.0767 9.44336 42.1353 8.33984 42.1997 7.2002L46.7993 7.2002 46.7993 0 0 0 0 7.2002 4.6001 7.2002C4.66406 8.33984 4.72314 9.44336
+ 4.81104 10.5254 5.30664 16.6748 7.35645 22.0557 11.7085 26.2969 12.2754 26.8486 12.8159 27.4346 13.3662 28.0068 15.0801 29.7861 16.3921 31.8008 16.5864 34.4395 16.7764 36.9951 16.7271 39.5645 15.1978 41.6807 14.0024 43.334 12.582 44.8174 11.1724
+ 46.2793 7.59863 49.9873 5.62744 54.5117 5.00977 59.7285 4.81348 61.3848 4.7002 63.0684 4.56836 64.7998L0 64.7998 0 72 46.7993 72 46.7993 64.7998 42.231 64.7998C42.0991 63.0684 41.9858 61.3848 41.7896 59.7285 41.1724 54.5117 39.2007 49.9873 35.6274
+ 46.2793 34.2173 44.8174 32.7969 43.334 31.6016 41.6807 30.0723 39.5645 30.0234 36.9951 30.2129 34.4395 30.4072 31.8008 31.7197 29.7861 33.4336 28.0068ZM30.2959 46.7725C30.939 47.4473 31.5674 48.1396 32.2373 48.7842 35.2524 51.6895 37.104 55.2754
+ 37.6929 59.5508 37.9302 61.2832 38.0474 63.0352 38.1899 64.7998L8.60938 64.7998C8.75195 63.0352 8.86963 61.2832 9.10693 59.5508 9.6958 55.2754 11.5469 51.6895 14.5625 48.7842 15.2319 48.1396 15.8604 47.4473 16.5039 46.7725 20.6743 42.3955 21.4106
+ 37.1055 20.0581 31.3057 19.5649 29.1904 18.418 27.4238 17.0181 25.8545 16.1436 24.875 15.249 23.9102 14.3174 22.9922 10.7842 19.5068 9.21094 15.0859 8.82422 10.0908 8.75098 9.14746 8.7002 8.18945 8.64551 7.2002L38.1538 7.2002C38.0991 8.18945
+ 38.0483 9.14746 37.9751 10.0908 37.5884 15.0859 36.0161 19.5068 32.4824 22.9922 31.5508 23.9102 30.6563 24.875 29.7817 25.8545 28.3813 27.4238 27.2344 29.1904 26.7412 31.3057 25.3887 37.1055 26.1255 42.3955 30.2959 46.7725Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+            <Path x="12.5332" y="42.1338" ai:objID="10cc5900" ai:seqID="13" data="M6.57666 7.12207 6.07373 7.6543C5.56689 8.19434 5.05811 8.73242 4.52637 9.24414 2.04932 11.6299 0.614258 14.4639 0.140625 17.9092 0.0878906 18.291 0.0410156 18.6777 0 19.0664L21.7329 19.0664C21.6909 18.6758 21.645 18.29 21.5923 17.9063 21.1191
+ 14.4639 19.6836 11.6299 17.2061 9.24316 16.6753 8.73242 16.1665 8.19434 15.6592 7.6543L15.1572 7.12402C13.1323 4.99805 11.7007 2.61914 10.8667 0 10.0327 2.61816 8.60156 4.99707 6.57666 7.12207Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+            <Path x="12.5093" y="10.7998" ai:objID="10cc5a80" ai:seqID="14" data="M16.0786 11.0283C16.5498 10.5283 17 10.0684 17.4453 9.62988 18.6636 8.42676 19.6284 7.03711 20.3486 5.43848 21.0684 3.84082 21.543 2.03418 21.7813 0 21.7813 0 16.3652 4.33887 10.8906 4.33887 5.41602 4.33887 0 0 0 0 0.238281 2.03418 0.712891 3.84082
+ 1.43262 5.43848 2.15234 7.03711 3.11768 8.42676 4.33545 9.62988 4.78125 10.0684 5.23145 10.5283 5.70215 11.0283 6.17334 11.5264 6.66553 12.0645 7.1958 12.6582 8.11914 13.6934 8.88477 14.7363 9.49854 15.7979 10.1118 16.8594 10.5742 17.9404 10.8906
+ 19.0527 11.207 17.9404 11.6694 16.8594 12.2827 15.7979 12.896 14.7363 13.6626 13.6934 14.5864 12.6582 15.1162 12.0645 15.6074 11.5264 16.0786 11.0283Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+        </Group>
+        <Path x="57.5249" y="14.4004" winding="nonZero" ai:objID="10cc4d00" ai:seqID="15" data="M9.97461 29.6992 9.97461 0 6.375 0 6.375 29.6992 0 29.6992 8.17676 43.8848 16.3496 29.6992 9.97461 29.6992Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="SECTIONAL_DOOR.assets/images" globalOffsetH="226.133" globalOffsetV="-350.634" rulerCanvasDiffH="298.5" rulerCanvasDiffV="421.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="E5CAA33DED7FAFBC0CD0485C67C5381E" d:ref="#2">
+        <ai:LayerOptions color="5 257 79.31 79.31" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="7D0664BA395467974E226737ED5E6F6B" d:ref="#3">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

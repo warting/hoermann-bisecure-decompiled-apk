@@ -1,0 +1,1205 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_BorderDown.fxg
+SHA1-Digest: Zwqfu8jiuijsqorLogrdfYbiDsk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eSingle/Fxg_SGS_StateHalf3.fxg
+SHA1-Digest: mhCvwA4l0uOFjxOLl2BynNTGkSE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/SWING
+ _GATE_SINGLE.fxg
+SHA1-Digest: NXP4w36yU3G5A3s7v+BVyI+gC8I=
+
+Name: assets/ActiveFeatures.info
+SHA1-Digest: g57nUvv2NNvLFLs3BDCghsdr7fY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ Fxg_Unlocked.fxg
+SHA1-Digest: WgyNTOAPwppCQ/HxqMwYyOggvAs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/DOO
+ R.fxg
+SHA1-Digest: 1Pqvik9dFGwVL0bLwP2p4x+6iHk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ SLIDING_GATE.fxg
+SHA1-Digest: uFWwu3gYPGrQZ6d+5ITYySekDTM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: UC/CqFAUKluPf9Ln2e8yOPfI7qY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateLeftOpened.fxg
+SHA1-Digest: lfEHtwRpdfpCcgIoXeXCyV1FfDM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgInfo.f
+ xg
+SHA1-Digest: Ize9iZRytOQIEt8AC92XRTmmNSU=
+
+Name: assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.U
+ DPSocket/library.swf
+SHA1-Digest: VBmuRBDa/567KGws6QdHgnr2i7k=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ LIGHT.fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 60.png
+SHA1-Digest: rfZfx1zj6yRlgE1LCQUXa93JgHU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/Fxg_Devi
+ ces.fxg
+SHA1-Digest: j6DrN95Uz8EvuwvJM7sQhB0PYUI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ Fxg_BatteryEmpty.fxg
+SHA1-Digest: ONTTR0QkV2SozsyM6Qie3MZezi0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/JACK.fxg
+SHA1-Digest: RDX7jc10MrQLvNJFVA7DKQeowXo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/LIGHT.fxg
+SHA1-Digest: vaMqN9AyqmXUjCNa2zASm+8mgw8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_BorderDown.fxg
+SHA1-Digest: v7fjnEJJ8BuegWjCYC3fUQhM/uA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 87.png
+SHA1-Digest: cB6lI94oHlKyJA+muUkz8qvC+aM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/sectiona
+ lDoor/FxgStateClosed.fxg
+SHA1-Digest: Rv7fzdqZQTe0BBgKjV5rUkiOPPc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ SWING_GATE_SINGLE.fxg
+SHA1-Digest: mxzK+HvxqT6U2K6kebQgjCZXgBE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS.fxg
+SHA1-Digest: f40yMDpZXGduI06UKcDEodIr2ks=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /SWING_GATE_SINGLE.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.svg
+SHA1-Digest: ake+WOcQKaTrtU9SkDMnQBElMZI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_BorderDownSelected.fxg
+SHA1-Digest: o2IJ66AQWphR+iwaoPd3ge9IEhY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/SWING_GATE_DOUBLE.fxg
+SHA1-Digest: 6sg8+jBiQ/j8URSIlglvF12zHm4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT.asse
+ ts/images/Image_0002.png
+SHA1-Digest: CuS0mrNvoe+ZDrwCsaMe8sA2+fg=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: WLTVZGSC7e2bSL/cVhwWlP3Pzfk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: S1diub2bSuFR4poaho8e1tidxA8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/DOWN.asset
+ s/images/Image_0001.png
+SHA1-Digest: 3Q9Ug/8BCKmpLkc9PS5HQS5On3c=
+
+Name: res/drawable-hdpi-v4/home.png
+SHA1-Digest: A+rx8jiuPWqssDz0rtsU3PWl3CA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/SLIDING_GATE.fxg
+SHA1-Digest: 5f2efhHHCnRTe0AeCOBB+CZ08uc=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: OLRKTLEHKeNGeJTqAX/QlSBd3X8=
+
+Name: resources.arsc
+SHA1-Digest: MR+d/cWx9YD/g+VGb5yQ2md5sq8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_BorderUpSelected.fxg
+SHA1-Digest: 2JcAnBnCr/V6Tcax2WPtkUPdDd4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ JACK.fxg
+SHA1-Digest: XUcFC5Dcii4tEesu8wDauhkrKSY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/SlidingG
+ ate/Fxg_SG_StateHalf3.fxg
+SHA1-Digest: fFqZqUG0GAsxfzgKNNWsPkj3vkc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ poller/FXG_PP_StateNotRetracted.fxg
+SHA1-Digest: tF225W2aaA0qavyd4aTvE7f8QlE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/SWING_GATE_SINGLE.fxg
+SHA1-Digest: VoOX+UZwYYF8cVBYYq7v1OGWwDU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_SymbolUp.fxg
+SHA1-Digest: PBcG4+69IMDF0fhctwq9ZcoVrco=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ImgSplash.assets
+ /images/Image_0001.png
+SHA1-Digest: GWzkQmQ7Y8EHega3YdA1Wd0Q5+A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: KNpYa/FGSoyodjaNSW7T+i+GaEA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ SECTIONAL_DOOR.fxg
+SHA1-Digest: QSOI1p/c4XZelxko0xJIElms8fw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.ass
+ ets/images/Image_0001.png
+SHA1-Digest: WAbOnconcy/llO5W4bgdOOsX1t4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/SWI
+ NG_GATE_DOUBLE.fxg
+SHA1-Digest: 2MGGUk6Uac9YM0GK2gcvtrASTXA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ FxgArrowUp.fxg
+SHA1-Digest: rbFNRAdPGhwQo/L8QOgE9nXVXBg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 20.png
+SHA1-Digest: cWOWbezoI+0jLm1oXA7FeKMCyqc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateRight3.fxg
+SHA1-Digest: 271cq8bX39OjNmcNJZEFP7yNX6Q=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/HORIZ
+ ONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: QB2ckzE23Co5iH1CX7VdbStMLtA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgOfflin
+ e.fxg
+SHA1-Digest: Uc6xC6IYsQ2Tdcb8phfS1nbp9Ec=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgEdit.
+ fxg
+SHA1-Digest: kEf5RZdVm/M3zxxpym0tTLUDbDE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/SWING_GATE_DOUBLE.fxg
+SHA1-Digest: D5SP/qKjLtGxdSv08AFALyNUztk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 80.png
+SHA1-Digest: wY0HXLWJg/llci7OhTmlxR7SwTM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/UP.assets/
+ images/Image_0001.png
+SHA1-Digest: ErJMxPx9/IfMJD7W31sA3mo8n0o=
+
+Name: res/raw/startga.html
+SHA1-Digest: 0Gq1U1c1hFbPzb+UHZ8RaIpUnts=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/SWING_GATE_SINGLE.fxg
+SHA1-Digest: bo67YKnoiiqtr63geT1DWs72f4A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/LIGHT.fxg
+SHA1-Digest: ITsK+BulW1B3nVWKUTkZrvaaQvo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ LIGHT.fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/ttf/MarkerFelt.ttf
+SHA1-Digest: Nptn5QzebfhHUkHn/96AbAn+sSo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ FxgError.fxg
+SHA1-Digest: VwQ83+X20xPJoC0RtR5U4gRD1Xo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eSingle/Fxg_SGS_StateOpened.fxg
+SHA1-Digest: LjCkIdGB4G9/6S6Mjg58nKZKeUs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/SINK.fxg
+SHA1-Digest: osD8iXMpoLlPFRO8NF2FYHsDvys=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/horizont
+ alSectionalDoor/FxgStateClosed.fxg
+SHA1-Digest: MrOILUo/cqWs0T/o5fRNJ4q8+8M=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/LIGHT
+ .fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/barrier/
+ FXG_BAR_StateOpened.fxg
+SHA1-Digest: OWN9dK6IR02To7hdE4F9r/cL6sk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/JAC
+ K.fxg
+SHA1-Digest: /5P3DVoEJ1WJzhLbFQfuJ35Scjo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIFT.fxg
+SHA1-Digest: lv+eZufyEKizPGeN1LoJRGEOEpw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgGlobal
+ _disabled.fxg
+SHA1-Digest: ugJzAiqAA96ppdZGBSzQtaqA9Ko=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/JACK.fxg
+SHA1-Digest: 4W4sZ0U0JE47z1LYluTMBBOxWUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgRefre
+ sh.fxg
+SHA1-Digest: I5m569da6UrWA9vLHLOdZmqfy4Y=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /SECTIONAL_DOOR.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgNotifi
+ cationInfo.fxg
+SHA1-Digest: 2+MU2EuND8xGdI6+2Dpo02hMrcU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/SECTI
+ ONAL_DOOR.fxg
+SHA1-Digest: +mBjC8JxGPmxpT89IIxO/ojuq1g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ durchfahrtssperre/FXG_PDS_StateNotRetracted.fxg
+SHA1-Digest: Pb1gj/D9IW/kDBRuICb+0sG6Jdw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/logos/nothing_to
+ _see.jpg
+SHA1-Digest: QgGVBAyULByfgPfQ7cKe5oIvd6c=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 180.png
+SHA1-Digest: 2wbZpZn89N0MEGQ/dO8xLL/GV38=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/jack/ORA
+ NGE_Fxg_J_StateOn.fxg
+SHA1-Digest: Y3Xeru1U1+6+Tt87E7epE9XgZt8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ FxgAutoClose.fxg
+SHA1-Digest: UU52QR31xjNQwzmWh58Gm1bi8TE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_BorderUp.fxg
+SHA1-Digest: CUkyXM//pkBKmiVYNZGt7zyA7nA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_BorderUp.fxg
+SHA1-Digest: ZoA0t8pZf3pdNAlU3tPCSAoUoJk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/LIG
+ HT.fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/HALF.asset
+ s/images/Image_0001.png
+SHA1-Digest: Glq2au7gAluPG6Bem78vNC7PKU0=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: muWDlCVJunuANWho+I8TzzoBbv0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ durchfahrtssperre/FXG_PDS_StateExtended.fxg
+SHA1-Digest: IY77pnRUAbsSuiCAb9gMHdszAJg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateRightOpened.fxg
+SHA1-Digest: y+E1FG37RdVKIjdrJ8Ss4yNyqUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/door/Fxg
+ _D_StateHalf3.fxg
+SHA1-Digest: Ji29ZAQpy3VfWuxI6nWJDS+85Og=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/SlidingG
+ ate/Fxg_SG_StateHalf2.fxg
+SHA1-Digest: ekSJKix4MsCQWqPYgMS7xUnAZtk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgPositi
+ ve.fxg
+SHA1-Digest: 1sQVfZ0vQe23d84ArjJ/mnV+mv8=
+
+Name: assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.U
+ DPSocket/catalog.xml
+SHA1-Digest: YAwiRPpn0ftI4z5uu4woGwXMFTU=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: 1fqps3OI0kgeWuSSlos1M6M1i/I=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/SLI
+ DING_GATE.fxg
+SHA1-Digest: nCue8OipAHHKPz1H9T+5UJmo8Go=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgNegati
+ ve.fxg
+SHA1-Digest: 4RUZJEIWOdlIkuB1ZJDOVW8kACA=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: cp6EzjLDVdzLOD69uttcA3OnzH8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE
+ .assets/images/Image_0002.png
+SHA1-Digest: DSdeI6ajJRQbvpGKyYjfhQTGMt0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_BorderUp.fxg
+SHA1-Digest: YgLBc9CutGUlbFt67df50kTl8RU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/horizont
+ alSectionalDoor/FxgStateOpened.fxg
+SHA1-Digest: 6dGXUXfcDnyCEnI/CQNLbsvaVIk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: kScl6OQ9blxvmG1nBkeYZeyvDXo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_SymbolDown.fxg
+SHA1-Digest: SmrpZ6JRgCcSa61hGvFXufUY2sY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/SWIN
+ G_GATE_DOUBLE.fxg
+SHA1-Digest: 6ymGJxExZlvuj0IFnC2f8rUBA74=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ SWING_GATE_DOUBLE.fxg
+SHA1-Digest: xuJNeBd4+BN/sHkdVqs36ViuN1A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/JACK.fxg
+SHA1-Digest: 4W4sZ0U0JE47z1LYluTMBBOxWUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/door/Fxg
+ _D_StateClosed.fxg
+SHA1-Digest: JVnYNFjrD/yRus1ZPnkWwRfD2kE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ hubbalken/FXG_PHB_StateRetracted.fxg
+SHA1-Digest: GgTKMzfcW6kI5MdePKh7QqLxKW0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 58.png
+SHA1-Digest: mQ7NlnEhk3NLGQSK9L+rA5RD0cE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ LIGHT.fxg
+SHA1-Digest: vaMqN9AyqmXUjCNa2zASm+8mgw8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgLocal_
+ disabled.fxg
+SHA1-Digest: Hhv4NfuhU0/V13wI/6s8dQ4gIIo=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: hxbqSGIyhWNwlLIZWKL5V6U3JUQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /SLIDING_GATE.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_SymbolUp.fxg
+SHA1-Digest: 7JG1ybdHWB9u/kAP5wgdGZ4Pxgs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/SlidingG
+ ate/Fxg_SG_StateOpened.fxg
+SHA1-Digest: 6BgU9edbxh2MZsbsVVQq2MkB24Y=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ DOOR.fxg
+SHA1-Digest: 9ziSgda5msVN/bwwyK9riAGl5qk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ reifenkiller/FXG_PRK_StateExtended.fxg
+SHA1-Digest: cYD91VNS8trO2EB1huyYBm5XRQs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/jack/ORA
+ NGE_Fxg_J_StateOff .fxg
+SHA1-Digest: PWvDutFrEWDC8xYPmwUOGKL74IQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ SLIDING_GATE.fxg
+SHA1-Digest: MOTtxp4KWIuAmuZ66BJFOgxsSAI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_SymbolDown.fxg
+SHA1-Digest: rBU5e8llBPdpl9mgKvCUaZZWXt0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ JACK.fxg
+SHA1-Digest: 4W4sZ0U0JE47z1LYluTMBBOxWUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ DOOR.fxg
+SHA1-Digest: 5c/h8/iwyT+xMDNP2rw1joRPHWI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LOCK.asset
+ s/images/Image_0003.png
+SHA1-Digest: NvDV2T9BPcoAemEkWAgbSgzMih8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT.asse
+ ts/images/Image_0001.png
+SHA1-Digest: WAbOnconcy/llO5W4bgdOOsX1t4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateRightClosed.fxg
+SHA1-Digest: p9k+r3DB9XtlCFLvOn2JqYUGlfU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/DOO
+ R.fxg
+SHA1-Digest: 9YAXGLQmZVxYsDC5wcQeIJMWBtU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /LIGHT.fxg
+SHA1-Digest: vaMqN9AyqmXUjCNa2zASm+8mgw8=
+
+Name: res/mipmap-xhdpi-v4/ouya_icon.png
+SHA1-Digest: KHdTjlFIp3GszJwR1tfJhRUdUog=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateLeft3.fxg
+SHA1-Digest: nemclB1Ufcu/IKDpC7puPa8AWNI=
+
+Name: res/drawable-xhdpi-v4/ouya_icon.png
+SHA1-Digest: lBdDKlflgsODpRToCNUMAAagS48=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ SECTIONAL_DOOR.fxg
+SHA1-Digest: Z/prghXRREdTuDh7uj2P0iRklv8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateRight2.fxg
+SHA1-Digest: Nso+qUEBkehsxn1mshycUYJcMK0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/logos/ImgWM.fxg
+SHA1-Digest: 1A85K/wxhVY4tu1mgb18Wj1ggfw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/barrier/
+ FXG_BAR_StateClosed.fxg
+SHA1-Digest: T42cplgdoFT0DEkKBJXkDWqylIQ=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: pd6B3nw0pxU/KE3OD9RJ4MMYDRc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/SWI
+ NG_GATE_SINGLE.fxg
+SHA1-Digest: Ip6eYI7yCPpZssrsUtXt62BT0CI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS_SHO
+ RT.assets/images/Image_0001.png
+SHA1-Digest: dvHAewd78pAdII5btZaaZ1tGZ+c=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ SWING_GATE_SINGLE.fxg
+SHA1-Digest: H0y+qqisAyHIIJnBPXS8n+qb90M=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgRefre
+ sh_White.fxg
+SHA1-Digest: AEGXmP1txagWXMZYpeuLDKSQrtQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/horizont
+ alSectionalDoor/FxgStateHalf1.fxg
+SHA1-Digest: B+rCBFyt3jCmHW1JjeHbSy6WeFo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/jack/Fxg
+ _J_StateOn.fxg
+SHA1-Digest: WxdWOLBPyhMGlkfOpzQj4YI4UVY=
+
+Name: res/layout/main.xml
+SHA1-Digest: +iNWgRE5K+ZZfvxv/WLysu4OX7w=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ poller/FXG_PP_StateRetracted.fxg
+SHA1-Digest: siNgZTbsyubZdq1673cpNxjmMog=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/light/Fx
+ g_L_StateOff.fxg
+SHA1-Digest: voNCdMdWihQ0W2Op/hMCNaKeEOc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgDelet
+ e.fxg
+SHA1-Digest: eUGX2bRh04BDhukvzov2n2sDvt0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/sectiona
+ lDoor/FxgStateHalf3.fxg
+SHA1-Digest: JZfBSf/bMHCLFtaVwnaX4IHtRII=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgSearc
+ h.fxg
+SHA1-Digest: xAFdLk6ruZw+NCER1LFK4LAr+8w=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE
+ .assets/images/Image_0003.png
+SHA1-Digest: NvDV2T9BPcoAemEkWAgbSgzMih8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgGlobal
+ .fxg
+SHA1-Digest: RUH/5LqFVI4SgXE0MAOSJECPLPQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ durchfahrtssperre/FXG_PDS_StateRetracted.fxg
+SHA1-Digest: k5+plE03QKt2ADTMnzk/m20Ebls=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/light/Fx
+ g_L_StateOn.fxg
+SHA1-Digest: VEiyD3QufL9dMnXMMkcCXlizZAg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS_LON
+ G_backup.fxg
+SHA1-Digest: JFj9C9lrz0AjBBqTTw9k2Uq48IE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/UNLOCK.fxg
+SHA1-Digest: wIGRk9K8QMA9yMe8oyvGyVkzp+s=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/light/li
+ ght.ai
+SHA1-Digest: rYPLX3F+HJp5aP/OTpkDc6KpfJc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/LIG
+ HT.fxg
+SHA1-Digest: RQEJitpRY1rbPIRTWTuKJQVb9S8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgCopy.
+ fxg
+SHA1-Digest: 35Jen/xUThAwlglod88ZFlg7zpc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/SWING
+ _GATE_DOUBLE.fxg
+SHA1-Digest: nLVfa3OCxDxe1HojTPdDOijc5Fo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/DOO
+ R.fxg
+SHA1-Digest: FSf15N+MxZKDBdFcmxI7LyXmVAY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/SWI
+ NG_GATE_DOUBLE.fxg
+SHA1-Digest: Y52nMp1tTKFtZd4Zw6EItYOv/VE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/Fxg_Scen
+ arios.fxg
+SHA1-Digest: DWEQ95RAyTXMOUunPWPOD+Sz4Ic=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgCheck
+ .fxg
+SHA1-Digest: 9MUMebjdrEGM+QjoMuGaXE5St1g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_BorderUpSelected.fxg
+SHA1-Digest: Gd2fvTPfH8RXO4zRQeRkyDCOohQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/SEC
+ TIONAL_DOOR.fxg
+SHA1-Digest: bYJMUrZXupj159XshPVSubttkpE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIFT/asset
+ s/images/Image_0001.png
+SHA1-Digest: ErJMxPx9/IfMJD7W31sA3mo8n0o=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/HORI
+ ZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: xajgdKc2L4rFAiyGU1qCSYST+wo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/SLIDI
+ NG_GATE.fxg
+SHA1-Digest: CgaRzFlc6g93VQMKbT5Vb/UTdj4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /DOOR.fxg
+SHA1-Digest: 1QdZvJCrx8k3cRwyws2pC3VN5d0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eSingle/Fxg_SGS_StateClosed.fxg
+SHA1-Digest: +691aEn9SNlxcz+7Fp+09XBJdOs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ FxgUnavailable.fxg
+SHA1-Digest: TpdCeITPKSZP5ZXNkI/kVVZsEyw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE
+ .assets/images/Image_0001.png
+SHA1-Digest: dvHAewd78pAdII5btZaaZ1tGZ+c=
+
+Name: res/raw/debuginfo
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ SWING_GATE_DOUBLE.fxg
+SHA1-Digest: IS2J3w3DTgVJSR27ZxQXW44uJcI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/door/Fxg
+ _D_StateHalf2.fxg
+SHA1-Digest: 94TaF66X2YDUsMzs+SCRA0nVVL8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eSingle/Fxg_SGS_StateHalf1.fxg
+SHA1-Digest: YOMj7bcYxmnaZZckkbapsaDY/Sc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgAdd.f
+ xg
+SHA1-Digest: eIolQ6ZcvCC8RmiHErjhN/GiajI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/SlidingG
+ ate/Fxg_SG_StateHalf1.fxg
+SHA1-Digest: K8nDqFXtLl1dq7stQAFY2mocegs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/SINK.asset
+ s.images/Image_0001.png
+SHA1-Digest: 3Q9Ug/8BCKmpLkc9PS5HQS5On3c=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices.zip
+SHA1-Digest: hGPVwcXwM+Mjj3H8YQBLvgedqsc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/LIGHT.fxg
+SHA1-Digest: vaMqN9AyqmXUjCNa2zASm+8mgw8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/door/Fxg
+ _D_StateOpened.fxg
+SHA1-Digest: GgdFpeP38qEp+jfIFzhgzp9nqBs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgNotifi
+ cationWarn.fxg
+SHA1-Digest: kFxuvpD6kPA9gUyBhVdsGVNu/qk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateRight1.fxg
+SHA1-Digest: hQun67/8T5y0jjEwSc7Q2jJfgoE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/sectiona
+ lDoor/FxgStateOpened.fxg
+SHA1-Digest: rE9wcBfzAMy4+S8+Xe5XaW7Pk50=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/thumbs/ImgLocal.
+ fxg
+SHA1-Digest: jn10WOGOtNJmJDxMpAgweCYL7DE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/HOR
+ IZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: lcr2cn+kQ9h/Magh9blfPK5yn4g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.ass
+ ets/images/Image_0002_0002.png
+SHA1-Digest: CuS0mrNvoe+ZDrwCsaMe8sA2+fg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/LIGHT.svg
+SHA1-Digest: Yyw9NWqO7ZA9nLlh1DGhomAvdG0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /SWING_GATE_DOUBLE.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/OTHER
+ .fxg
+SHA1-Digest: ieAZwjAwGjdqr5Tbk47lpYS9M7w=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/ON.fxg
+SHA1-Digest: Z/PbJ+IAYetkZUxi9V0j8pvFT9o=
+
+Name: assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.U
+ DPSocket/META-INF/ANE/Android-ARM/library.swf
+SHA1-Digest: VBmuRBDa/567KGws6QdHgnr2i7k=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/LIG
+ HT.fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/SWING_GATE_SINGLE.fxg
+SHA1-Digest: CGouJBSDAak+Ky5LIMsRQ/6yjN8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.ass
+ ets/images/Image_0002.png
+SHA1-Digest: CuS0mrNvoe+ZDrwCsaMe8sA2+fg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/OPEN_DOOR.
+ assets/images/Image_0003.png
+SHA1-Digest: NvDV2T9BPcoAemEkWAgbSgzMih8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/DOOR
+ .fxg
+SHA1-Digest: 0IYwvLLQpeItdrp0BZJCcAHcCGk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/SLIDING_GATE.fxg
+SHA1-Digest: FN+6cV5wjMdtpaeFbLWEYcmI/MU=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: Tv5w5/LchGvun/DE3cEpEMnhS2k=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT.fxg
+SHA1-Digest: FTc892K1wX0EVof73yx4R50GpcQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/general/
+ Fxg_Locked.fxg
+SHA1-Digest: rCSL3MDoNtkw6Ea/a5LhElKCDEU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ poller/FXG_PP_StateExtended.fxg
+SHA1-Digest: mI8dpjVLBupytoTdEmIo2YUESY0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ SLIDING_GATE.fxg
+SHA1-Digest: eYiLXhvDkYbIeLEeGHrhEJgc/Vw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/JACK
+ .fxg
+SHA1-Digest: Kn2ISg469TnNgQcdAocb0BHQ+MU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/SWING_GATE_DOUBLE.fxg
+SHA1-Digest: 5qzu9I3eLRL/5Ynxql3/r3A8KP0=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: vq6YotzOEJeZC2xthBm926pnXmg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LOCK.fxg
+SHA1-Digest: IG3jmOZukwcywUHufHDAerSrgyA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateLeft2.fxg
+SHA1-Digest: 2i8TDBJnVMUYHXYVp1i+SY0JzyQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/Fxg_Opti
+ ons.fxg
+SHA1-Digest: NgpTLbDr7SEwvSjYPJ/lOmHIXkA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: Cwwfo0GelWhICdKzI3Sz8GSU9xY=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: XqKczhXscejuhED6kKhxQRvwREI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/HOR
+ IZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: VfpY8xxsh+YL17PfsWyrr+BUO/A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/DOOR.fxg
+SHA1-Digest: dTSM3ChGbZDPNI7nyc7KvFQcdG0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/SWING_GATE_DOUBLE.fxg
+SHA1-Digest: f2fEdoCmyYU2B/htgwMwU7XiX9w=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/SLID
+ ING_GATE.fxg
+SHA1-Digest: hm83ADU6AgG5Qt2WDU1a2GTSajA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgEdit_
+ White.fxg
+SHA1-Digest: eW9KF0yl9XZcToJUs62XVVTOmms=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/SWING_GATE_SINGLE.fxg
+SHA1-Digest: vKssQBJMfRUPQ6on61l46AtZopk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/horizont
+ alSectionalDoor/FxgStateHalf2.fxg
+SHA1-Digest: KQBgf6CSrJb+aKgjdzdNOSNzJZY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS_SHO
+ RT_backup.fxg
+SHA1-Digest: LrO1c2jElCjZzbmWnS5lgvfJS6A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/UNLOCK.ass
+ ets/images/Image_0003.png
+SHA1-Digest: NvDV2T9BPcoAemEkWAgbSgzMih8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/SLI
+ DING_GATE.fxg
+SHA1-Digest: q3ZT6yfq2tAyBM6FP+xAs7GUpZs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/SWI
+ NG_GATE_SINGLE.fxg
+SHA1-Digest: Ip6eYI7yCPpZssrsUtXt62BT0CI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS.ass
+ ets/images/Image_0001.png
+SHA1-Digest: 7DViLD5wHI9qZBFZvUzr1+ieacU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/SECTIONAL_DOOR.fxg
+SHA1-Digest: C/12WlNEF7R28NrOvL7tcO2PQrE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 29.png
+SHA1-Digest: wkuOHQ0M8/qC929jCrnLkuGLgHw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/UP.fxg
+SHA1-Digest: lv+eZufyEKizPGeN1LoJRGEOEpw=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: KHdTjlFIp3GszJwR1tfJhRUdUog=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/SECTIONAL_DOOR.fxg
+SHA1-Digest: v5GLYHYRunJq931ID+eC+iDg9Xc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ hubbalken/FXG_PHB_StateNotRetracted.fxg
+SHA1-Digest: x9uEqQ1aQ12NoAFyBS6DP0lJBjw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/error
+ /JACK.fxg
+SHA1-Digest: JBtfeyqlssAAwCm57CMD26oypaM=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: 9MOqUE6m6bqlLb54/RUCOvCMUh0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/WALK.fxg
+SHA1-Digest: bTnM+x4FC3ycl96G8IN8YEQYhFo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/SlidingG
+ ate/Fxg_SG_StateClosed.fxg
+SHA1-Digest: Zx8ilF88EINB175NH80v50ecS70=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/LIGHT.fxg
+SHA1-Digest: vaMqN9AyqmXUjCNa2zASm+8mgw8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/sectiona
+ lDoor/FxgStateHalf2.fxg
+SHA1-Digest: PrUZgoRbhZHvHAhjzAPPwCYL5Ww=
+
+Name: assets/Bisecur.swf
+SHA1-Digest: AgyCyyCspAUm7bdks88Stb+l0C0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/light/Fx
+ g_L_StateOff.ai
+SHA1-Digest: xY6goMzPjUqw6T2vUN5uUyfT6dE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: XsFklzjktz0c8tqU5oTvjiZjvNA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/OPEN_DOOR.
+ fxg
+SHA1-Digest: IGR1aTyuBZ5BVr6e5YgI7kCpXnE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgPrefs
+ .fxg
+SHA1-Digest: zfnk1A+w8SSYwEetAbNJO0aKH8w=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/barrier/
+ FXG_BAR_StateNotClosed.fxg
+SHA1-Digest: GV5hSoJR7horMSNf6HxTYEkIza4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/JAC
+ K.fxg
+SHA1-Digest: /5P3DVoEJ1WJzhLbFQfuJ35Scjo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/HALF.fxg
+SHA1-Digest: bTnM+x4FC3ycl96G8IN8YEQYhFo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgHelp.
+ fxg
+SHA1-Digest: TdNOVHjI+VJF312HimIhgThHpos=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgMail.
+ fxg
+SHA1-Digest: 9HjJgDx1r7mBSuHzGeCCx/KPM4A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/sectiona
+ lDoor/FxgStateHalf1.fxg
+SHA1-Digest: 9JlGv7y/SL1Zg18V74Rd/QOLRgE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/half/
+ HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: 6ASQytpg7jT79Y63cbbCTiEtiVc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ hubbalken/FXG_PHB_StateExtended.fxg
+SHA1-Digest: tdNZh/iLwjm7ONuTjPproY6cN0g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/DOOR.fxg
+SHA1-Digest: 9ziSgda5msVN/bwwyK9riAGl5qk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/SEC
+ TIONAL_DOOR.fxg
+SHA1-Digest: bYJMUrZXupj159XshPVSubttkpE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 167.png
+SHA1-Digest: TcZFlkG/yKb6evg40GJK8DYhX/g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eSingle/Fxg_SGS_StateHalf2.fxg
+SHA1-Digest: eQGmA5gTMX3Owa8XJDWVYU/S4yk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgMenu.
+ fxg
+SHA1-Digest: Nt8Jzfdwq/hKbUtSRHIiIS7Ie0U=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ JACK.fxg
+SHA1-Digest: /5P3DVoEJ1WJzhLbFQfuJ35Scjo=
+
+Name: assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.U
+ DPSocket/META-INF/ANE/extension.xml
+SHA1-Digest: OO59/wK1fqv9LSWzkQmY0OgN2Eg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/SECT
+ IONAL_DOOR.fxg
+SHA1-Digest: PQPzY9xPFNkZNvjH511AOvQjdCk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/JACK.
+ fxg
+SHA1-Digest: /5P3DVoEJ1WJzhLbFQfuJ35Scjo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/SLIDING_GATE.fxg
+SHA1-Digest: JXvZ1iLHYC8qcS8xLlPcIOwP2vI=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: PzWhclPR9pqEXElASoni+fuAj8g=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/autoC
+ lose/SLIDING_GATE.fxg
+SHA1-Digest: u5bwad723YVc008WDgaMq7XVOko=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/SWIN
+ G_GATE_SINGLE.fxg
+SHA1-Digest: r254wTzjFGEQIicf1e1aQQJ76XI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_BorderDownSelected.fxg
+SHA1-Digest: lnZq/LjZ3Xnha6lg3Bvae6E4bUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/HOR
+ IZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: VfpY8xxsh+YL17PfsWyrr+BUO/A=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: nANfJreZj8IRns9AUf6IHMlN50E=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: 9PuU4TCBHVyTZ9HMDlzHyLI0OLg=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: OaLGZ2W1E38ErTdFrijgot2q67A=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ reifenkiller/FXG_PRK_StateRetracted.fxg
+SHA1-Digest: yzr0/nGvNA/5gfC98HXtMEjGOYw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/SEC
+ TIONAL_DOOR.fxg
+SHA1-Digest: cOcBd43Wu+SLdd5494vFxL1X9H8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.fxg
+SHA1-Digest: 0HKT4PdV1c/TI09Ug3F4oRbfPKw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/JAC
+ K.fxg
+SHA1-Digest: /5P3DVoEJ1WJzhLbFQfuJ35Scjo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ DOOR.fxg
+SHA1-Digest: Gy0f0yaaWChny49L+SnCsLpHyN8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/JACK.fxg
+SHA1-Digest: 4W4sZ0U0JE47z1LYluTMBBOxWUo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE
+ .fxg
+SHA1-Digest: 631uGkavMxE3A0883h2o5jFMXaU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgSearc
+ h_White.fxg
+SHA1-Digest: 0gIMLPO2JG6lLQ3WAaEV+U2CZZc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/half/DOOR.
+ fxg
+SHA1-Digest: 1Pqvik9dFGwVL0bLwP2p4x+6iHk=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: TB1sFoaKryPbAi+pfkX1A/uRts4=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/undefined/
+ SWING_GATE_SINGLE.fxg
+SHA1-Digest: gHXpsonxlExkZcxGl2tnYO3pHVU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/DOWN.fxg
+SHA1-Digest: osD8iXMpoLlPFRO8NF2FYHsDvys=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/close
+ d/SECTIONAL_DOOR.fxg
+SHA1-Digest: glYl5JwJSCCDKJk4cU6qt+bu91c=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_BorderDownSelected.fxg
+SHA1-Digest: 9E4Gymv/S+FbGEG3Tawp48Sv1rE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/horizont
+ alSectionalDoor/FxgStateHalf3.fxg
+SHA1-Digest: U63CAoHo6uHzSvXeQBTFy72nEzw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/ON_OFF.fxg
+SHA1-Digest: uF8I/G6f6SrDCBZyzEi3jwVg69E=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 240/Checkbox_SymbolUp.fxg
+SHA1-Digest: IputDuCRwQq6P8JJ73ciEZtP8i0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_BorderUpSelected.fxg
+SHA1-Digest: EA1d2InhjnJ3RlErr00icQGdPwY=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateLeftClosed.fxg
+SHA1-Digest: By4SerqlABB+4Z3RvWvmBcDIMDg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/DOOR.fxg
+SHA1-Digest: 7f3HnrAv+4p1ELaUz5HqxxWyBD0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ HORIZONTAL_SECTIONAL_DOOR.fxg
+SHA1-Digest: pn4RMR81SqzoQjCCzrYJMWd6iDw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/opene
+ d/DOOR.fxg
+SHA1-Digest: FtZnrtLLpOUSVkwhaeb1YxnfUp0=
+
+Name: assets/com/isisic/remote/hoermann/assets/texts/Infos_DE.txt
+SHA1-Digest: JTdK8+h3eSR1bj/0qx9AZVWSxiM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ImgSplash.assets
+ /images/Image_0002.png
+SHA1-Digest: t2Xmy2ElxoxPdv89Fbxk/IxmIIw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 1024.png
+SHA1-Digest: GHWekqyP01KRHSOL1apPZpOGkOw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/swingGat
+ eDouble/Fxg_SGD_StateLeft1.fxg
+SHA1-Digest: iOD3Rt0SdjQX00LhLF82S9X6/C0=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/error/LIGH
+ T.fxg
+SHA1-Digest: p1ouAQWqeIZDNW0tKOjDhUPs3mk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/moblie_
+ 320/Checkbox_SymbolDown.fxg
+SHA1-Digest: THo+vjB1O+ZLaUE0uRBMLDgqrQQ=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/Fxg_User
+ s.fxg
+SHA1-Digest: kN8X6YDBScpvS7m0OVadMGcyzPo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/OTHER.fxg
+SHA1-Digest: AwgW6iQwMneCzQdK6jdUUQxlt90=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/backup/SLI
+ DING_GATE.fxg
+SHA1-Digest: q3ZT6yfq2tAyBM6FP+xAs7GUpZs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ SECTIONAL_DOOR.fxg
+SHA1-Digest: wmh+jMyYLgsOtzMSIRj6++mBFto=
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: 3WH3nXhxwzZMH/2kH/zP7prDcmU=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/autoClose/
+ SWING_GATE_DOUBLE.fxg
+SHA1-Digest: BNzrU3nRxXvNGk6edAG9nDw1tmw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/closed/SWI
+ NG_GATE_DOUBLE.fxg
+SHA1-Digest: 2MGGUk6Uac9YM0GK2gcvtrASTXA=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/light/Fx
+ g_L_StateOn.ai
+SHA1-Digest: Kmi9gvz4+guDa0nzWQzyaToYl8M=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/pilomat/
+ reifenkiller/FXG_PRK_StateNotRetracted.fxg
+SHA1-Digest: RIRHGJHJJdUlnCytgO7QBmyQ5PM=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ImgSplash.fxg
+SHA1-Digest: aIKWAH6FAyaR6YvxMjNfj2kBar4=
+
+Name: res/layout/activity_static_page.xml
+SHA1-Digest: dVCuLahNdU/qfUtAfc/ibQUcEbg=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/jack/Fxg
+ _J_StateOff.fxg
+SHA1-Digest: 4uX5OT91QyjTBI/sFgOOSYf6SAo=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/devices/door/Fxg
+ _D_StateHalf1.fxg
+SHA1-Digest: 8uTo1/xnyhZ9qY/bBf54iII8MQw=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gates/opened/SWI
+ NG_GATE_SINGLE.fxg
+SHA1-Digest: V7Rrb6S9GEnsSTQtUIoCNOKviBk=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: sTMG68kOInIMDEqtvUQAsHDnEEE=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/OFF.fxg
+SHA1-Digest: CtrA87j0RJ5C1jRgAIW5+vi50K8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/checkBox/mobile_
+ 160/Checkbox_BorderDown.fxg
+SHA1-Digest: nesIZLMDu35Twjgs805kKrSUuFk=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS_SHO
+ RT.fxg
+SHA1-Digest: f40yMDpZXGduI06UKcDEodIr2ks=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: M4oTYVJZix9DcDAEdIasdLlVMKI=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: eCFwTk+zmvIeM+w4WQEnsknkfNI=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/ports/ON_OFF.ass
+ ets/images/Image_0001.png
+SHA1-Digest: qxHtGih/eP4H2ebjXVjAeVNiYIs=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/buttons/ImgBack.
+ fxg
+SHA1-Digest: Fh9/IKX2boiPvZV9FnTaakCKEHQ=
+
+Name: classes.dex
+SHA1-Digest: YJxTgyZG2IEjvd6EbZqCi3gwLRc=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/appIcons/appIcon
+ 40.png
+SHA1-Digest: AcEKTg47Zg01vC0k6ipTN5Dofq8=
+
+Name: assets/com/isisic/remote/hoermann/assets/images/gateThumbs/undef
+ ined/SECTIONAL_DOOR.fxg
+SHA1-Digest: 7WvnhgkihgeIHdecEbPILgjdg7o=
+

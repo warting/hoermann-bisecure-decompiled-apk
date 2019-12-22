@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="75" viewWidth="81" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="layer" ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="75" d:pageWidth="81" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group blendMode="normal" ai:objID="82b0f80" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="-0.000488281" blendMode="normal" id="g8" ai:objID="82aa280" ai:seqID="3">
+        <Group blendMode="normal" id="image10" ai:objID="82b0680" ai:seqID="4">
+          <Group blendMode="multiply" alpha="0.75" ai:objID="82b1c80" ai:seqID="5" flm:isolated="false">
+            <mask>
+              <Group x="0.000488281" ai:spare="1">
+                <Rect width="79" height="81" ai:objID="14f22d80" ai:seqID="6">
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </Rect>
+              </Group>
+            </mask>
+            <BitmapImage scaleX="0.843755" scaleY="0.765306" source="@Embed('LIGHT2.assets/images/Image_0001.png')" fillMode="clip" ai:objID="8272880" ai:seqID="7"/>
+          </Group>
+        </Group>
+        <Group x="4.86084" y="3.23682" id="g12" ai:objID="82b1e80" ai:seqID="8">
+          <Group id="g14" ai:objID="82b1180" ai:seqID="9">
+            <Group x="15.0498" y="14.4521" id="g16" ai:objID="82b0380" ai:seqID="10">
+              <Path id="path18" winding="nonZero" ai:objID="14f2a100" ai:seqID="11" data="M31.2578 28.4331C31.2715 28.4146 31.2832 28.3999 31.3008 28.3823L31.2949 28.3823C33.9512 24.9878 35.4395 20.9629 35.4395 17.7202 35.4395 10.6919 28.4736 0 17.7197 0 6.96484 0 0 10.6919 0 17.7202 0 20.9619 1.48877 24.9878 4.14502 28.3823L4.14404
+ 28.3823C4.14893 28.3931 4.15576 28.3979 4.16162 28.4038 4.40283 28.7134 4.65479 29.0142 4.91699 29.313 6.83594 31.7573 8.04395 34.4849 8.59375 37.0425L9.45166 41.3774C9.61963 42.8726 10.9897 44.0981 12.4937 44.0981L22.9473 44.0981C24.4521 44.0981
+ 25.8223 42.8726 25.9893 41.3774L26.8447 37.063C27.3945 34.4937 28.6064 31.7505 30.541 29.2944 30.7871 29.0132 31.0264 28.7261 31.2578 28.4331Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+              <Group x="10.9307" y="45.0903" id="g20" ai:objID="82b2f80" ai:seqID="12">
+                <Path id="path22" winding="nonZero" ai:objID="14f1c480" ai:seqID="13" data="M13.5762 0.848633C13.5762 1.31738 13.1963 1.69727 12.7275 1.69727L0.849121 1.69727C0.380371 1.69727 0 1.31738 0 0.848633L0 0.848633C0 0.379883 0.380371 0 0.849121 0L12.7275 0C13.1963 0 13.5762 0.379883 13.5762 0.848633Z">
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </Path>
+              </Group>
+              <Group x="10.9316" y="47.6353" id="g24" ai:objID="82b0a80" ai:seqID="14">
+                <Path id="path26" winding="nonZero" ai:objID="14f1e700" ai:seqID="15" data="M13.5752 0.848633C13.5752 0.382813 13.1807 0 12.6982 0L0.875977 0C0.394043 0 0 0.382813 0 0.848633 0 1.31543 0.39502 1.69824 0.875977 1.69824L12.6982 1.69824C13.1807 1.69727 13.5752 1.31543 13.5752 0.848633Z">
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </Path>
+              </Group>
+              <Group x="15.1738" y="51.0298" id="g28" ai:objID="82a7580" ai:seqID="16">
+                <Rect id="path30" width="5.09082" height="2.54492" radiusX="1.15995" radiusY="1.15995" ai:objID="14f2b780" ai:seqID="17">
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </Rect>
+              </Group>
+              <Group x="12.6279" y="50.1812" id="g32" ai:objID="82a5480" ai:seqID="18">
+                <Rect id="path34" width="10.1816" height="1.69629" radiusX="0.782439" radiusY="0.782439" ai:objID="14f29980" ai:seqID="19">
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </Rect>
+              </Group>
+            </Group>
+            <Group id="g36" ai:objID="82b3080" ai:seqID="20">
+              <Rect x="31.5654" id="path38" width="2.40723" height="8.41699" radiusX="1.20239" radiusY="1.20239" ai:objID="14f2a580" ai:seqID="21">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect x="17.2867" y="3.82592" id="path40" width="2.4057" height="8.41848" radiusX="1.20244" radiusY="1.20244" ai:objID="14f2b480" ai:seqID="22">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect x="6.83557" y="14.2801" id="path42" width="2.40308" height="8.41827" radiusX="1.20058" radiusY="1.2077" ai:objID="14f29f80" ai:seqID="23">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect x="3.00684" y="28.5591" id="path44" width="2.40479" height="8.41797" radiusX="1.20062" radiusY="1.20062" ai:objID="14f28300" ai:seqID="24">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect x="6.83521" y="42.8392" id="path46" width="2.40283" height="8.41827" radiusX="1.20058" radiusY="1.20058" ai:objID="14f1c900" ai:seqID="25">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect rotation="310.601" x="53.5249" y="45.2207" id="path48" width="2.40352" height="8.41614" radiusX="1.19665" radiusY="1.19665" ai:objID="14f1c780" ai:seqID="26">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Rect x="57.1201" y="31.5664" id="path50" width="8.41602" height="2.40479" radiusX="1.20416" radiusY="1.1962" ai:objID="14f1f900" ai:seqID="27">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Rect>
+              <Path x="53.6953" y="15.7826" id="path52" winding="nonZero" ai:objID="14f29380" ai:seqID="28" data="M5.81151 0.160751C6.3828 -0.17128 7.12011 0.0284271 7.45116 0.599716L7.45116 0.599716C7.78319 1.17638 7.58788 1.91075 7.01268 2.24376L1.80663 5.25157C1.23046 5.58165 0.497059 5.38536 0.162098 4.81065L0.162098 4.81065C-0.171886 4.23351 0.0273323
+ 3.50157 0.602528 3.16661L5.81151 0.160751Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+              <Path x="44.343" y="4.22907" id="path54" winding="nonZero" ai:objID="14f29500" ai:seqID="29" data="M3.16874 0.600035C3.49882 0.0272808 4.23613 -0.170961 4.80937 0.16107L4.80937 0.16107C5.38359 0.493101 5.58378 1.22796 5.25175 1.80316L2.24492 7.01019C1.90898 7.58734 1.17753 7.78216 0.60136 7.45209L0.60136 7.45209C0.0242119 7.1181 -0.170124 6.38519
+ 0.161907 5.80804L3.16874 0.600035Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+            </Group>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B includeSymbol 0 B aiEditCap 1 B writeImages 1 B includeXMP 0 I versionKey 2 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="LIGHT2.assets/images" rulerCanvasDiffH="41.5" rulerCanvasDiffV="41.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 72 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict>
+            <ai:Entry name="0" value="Image_0001.png" valueType="U"/>
+          </ai:Dict>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="A9CC4CD06C3674B09CD3E529C59A7A81" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

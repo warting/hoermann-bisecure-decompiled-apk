@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group d:type="layer" d:userLabel="Ebene 1">
+      <Path x="-1" y="5" winding="nonZero" ai:seqID="1" data="M0 131 495 131 495 0 591 0 591 131 612 131">
+        <stroke>
+          <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+        </stroke>
+      </Path>
+      <Group x="508.656" y="42.3223" ai:seqID="2">
+        <Path winding="nonZero" ai:seqID="3" data="M34.9219 40.4375 36.5723 25.4063 36.5723 17.541 29.4951 17.541 29.4951 25.4063 31.1475 40.4375 34.9219 40.4375ZM36.2588 43.5664 29.8096 43.5664 29.8096 50.0156 36.2588 50.0156 36.2588 43.5664ZM60.5625 58.6777C63.6309 58.6777 66.0693 56.2402 66.0693
+ 53.1699 66.0693 52.2266 65.833 51.2852 65.3613 50.418L37.832 2.75391C36.8086 1.02344 35 0 33.0361 0 31.0684 0 29.2598 1.02344 28.2373 2.75391L0.708008 50.418C0.235352 51.2852 0 52.2266 0 53.1699 0 56.2402 2.43848 58.6777 5.50586 58.6777L60.5625
+ 58.6777ZM33.0361 5.50977 60.5625 53.1699 5.50586 53.1699 33.0361 5.50977Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

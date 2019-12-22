@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="105a8c00" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group y="5.23047" ai:objID="11134480" ai:seqID="3">
+        <Path y="3" winding="nonZero" ai:objID="11038000" ai:seqID="4" data="M0 131 450 131 450 0 591 0 591 131 612 131">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Group x="467.299" y="24.9307" ai:objID="11136080" ai:seqID="5">
+          <Path winding="nonZero" ai:objID="1bd89f00" ai:seqID="6" data="M56.2314 65.1123 58.8896 40.9082 58.8896 28.2446 47.4941 28.2446 47.4941 40.9082 50.1543 65.1123 56.2314 65.1123ZM58.3848 70.1484 48 70.1484 48 80.5342 58.3848 80.5342 58.3848 70.1484ZM97.5186 94.4814C102.459 94.4814 106.385 90.5566 106.385 85.6143
+ 106.385 84.0947 106.005 82.5781 105.245 81.1816L60.917 4.43262C59.2695 1.64551 56.3574 0 53.1943 0 50.0264 0 47.1143 1.64551 45.4678 4.43262L1.14063 81.1816C0.379883 82.5781 0 84.0947 0 85.6143 0 90.5566 3.92773 94.4814 8.86621 94.4814L97.5186
+ 94.4814ZM53.1943 8.86963 97.5186 85.6143 8.86621 85.6143 53.1943 8.86963Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="SWING_GATE_DOUBLE.assets/images" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="01AB0F5A4538BF7B92B076BE75F30725" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

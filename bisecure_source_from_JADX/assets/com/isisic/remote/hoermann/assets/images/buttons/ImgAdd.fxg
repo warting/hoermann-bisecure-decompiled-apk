@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="63.9995" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="1112c280" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="5" y="5" ai:objID="1112c580" ai:seqID="3">
+        <Group y="20.2798" ai:objID="11136080" ai:seqID="4" flm:knockout="false" d:id="3">
+          <Rect width="54.3022" height="13.0835" radiusX="1.99102" radiusY="1.99102" ai:objID="11124480" ai:seqID="5">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+        </Group>
+        <Group x="20.5239" ai:objID="11136280" ai:seqID="6" flm:knockout="false" d:id="4">
+          <Rect width="13.2539" height="53.6436" radiusX="1.99102" radiusY="1.99102" ai:objID="1111da00" ai:seqID="7">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgAdd.assets/images" globalOffsetH="274.516" globalOffsetV="-39" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="ED103167865BD961E9DD191EF7F55414" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="B959ACE0E002844295F8E9BFE2141966" d:ref="#3">
+        <ai:Rect height="13.083" knockout="0" width="54.302" x="0" y="20.28">
+          <ai:ArtStyle>
+            <ai:PaintFields>
+              <ai:Stroke focus="1" miterLimit="10" weight="1"/>
+              <ai:Fill color="5 0.6 0.6 0.6" focus="1"/>
+            </ai:PaintFields>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Round Corners">
+                <ai:Dict data="R radius 2 "/>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Rect>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="B35FC2152C3D1E47BA8562B3B84067D0" d:ref="#4">
+        <ai:Rect height="53.644" knockout="0" width="13.254" x="20.524" y="0">
+          <ai:ArtStyle>
+            <ai:PaintFields>
+              <ai:Stroke focus="1" miterLimit="10" weight="1"/>
+              <ai:Fill color="5 0.6 0.6 0.6" focus="1"/>
+            </ai:PaintFields>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Round Corners">
+                <ai:Dict data="R radius 2 "/>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Rect>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

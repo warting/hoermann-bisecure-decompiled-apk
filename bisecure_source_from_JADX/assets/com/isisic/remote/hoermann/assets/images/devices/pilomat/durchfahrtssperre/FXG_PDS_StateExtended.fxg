@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="96.21" viewWidth="96.21" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="96.21" d:pageWidth="96.21" d:type="layer" d:userLabel="Artboard 1">
+    <Group visible="false" d:type="layer" d:userLabel="BG">
+      <Rect x="-3.33154" y="-1.6665" width="101.333" height="100.333" ai:seqID="1">
+        <fill>
+          <SolidColor color="#EA5554"/>
+        </fill>
+      </Rect>
+    </Group>
+    <Group visible="false" d:type="layer" d:userLabel="Eingefahren">
+      <Path y="90.1289" winding="nonZero" ai:seqID="2" data="M89.7012 3.64355 89.5234 0 7.82861 3.64746 0 3.64746 0 6.08105 96.21 6.08105 96.21 3.64746">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Path>
+      <Rect width="96.21" height="96.21" ai:seqID="3"/>
+    </Group>
+    <Group visible="false" d:type="layer" d:userLabel="nicht Ausgefahren">
+      <Path y="50.6592" winding="nonZero" ai:seqID="4" data="M87.4424 43.1172C87.25 29.4658 84.75 18.6533 76.7441 4.65527L79.25 3.09082 77.3135 0 7.82861 43.1172 0 43.1172 0 45.5508 96.21 45.5508 96.21 43.1172 87.4424 43.1172Z">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Path>
+      <Rect width="96.21" height="96.21" ai:seqID="5"/>
+    </Group>
+    <Group d:type="layer" d:userLabel="Ausgefahren">
+      <Path y="24.1328" winding="nonZero" ai:seqID="6" data="M87.4424 69.6436C87.1738 42.0029 72.4121 17.856 50.3984 4.37891L51.8789 1.82324 48.7202 0 7.82861 69.6436 0 69.6436 0 72.0771 96.21 72.0771 96.21 69.6436 87.4424 69.6436Z">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Path>
+      <Rect width="96.21" height="96.21" ai:seqID="7"/>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

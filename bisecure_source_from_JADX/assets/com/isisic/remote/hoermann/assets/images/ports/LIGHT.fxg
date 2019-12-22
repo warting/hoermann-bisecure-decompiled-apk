@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic xmlns="http://ns.adobe.com/fxg/2008" 
+		xmlns:fxg="http://ns.adobe.com/fxg/2008" 
+		xmlns:d="http://ns.adobe.com/fxg/2008/dt" 
+		xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" 
+		xmlns:svg="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" 
+		xmlns:ai="http://ns.adobe.com/ai/2009" 
+		version="2.0" 
+		viewWidth="84" viewHeight="84">
+	<mask>
+		<Group>
+			<Rect width="84" height="84">
+				<fill>
+					<SolidColor color="#ffffff" alpha="1"/>
+				</fill>
+			</Rect>
+		</Group>
+	</mask>
+	<!--Unknown tag: metadata--><!--Unknown tag: defs--><!--Unknown tag: sodipodi:namedview-->
+	<Group id="Ebene_1">
+		<Group id="g8">
+			<Group id="image10">
+				<BitmapImage blendMode="multiply" 
+							scaleX="0.843755" scaleY="0.765306" 
+							alpha="0.75" 
+							source="@Embed('LIGHT.assets/images/Image_0001.png')" 
+							fillMode="clip" 
+							ai:embed="1" 
+							ai:objID="11c9fc00" 
+							ai:seqID="5"/>
+			</Group>
+			<Group id="g12">
+				<Group id="g14">
+					<Group id="g16">
+						<Path data="m 51.168 46.122 c 0.014 -0.018 0.025 -0.033 0.043 -0.051 h -0.006 c 2.656 -3.394 4.145 -7.419 4.145 -10.662 0 -7.028 -6.966 -17.72 -17.72 -17.72 -10.755 0 -17.72 10.692 -17.72 17.72 0 3.242 1.489 7.268 4.145 10.662 h -0.001 c 0.005 0.011 0.012 0.016 0.018 0.022 0.241 0.309 0.493 0.61 0.755 0.909 1.919 2.444 3.127 5.172 3.677 7.729 l 0.858 4.335 c 0.168 1.496 1.538 2.721 3.042 2.721 h 10.453 c 1.505 0 2.875 -1.225 3.042 -2.721 l 0.856 -4.314 c 0.55 -2.569 1.762 -5.313 3.696 -7.769 0.246 -0.281 0.486 -0.568 0.717 -0.861 z" 
+								winding="nonZero" 
+								id="path18">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Group id="g20">
+							<Path data="m 44.417 63.628 c 0 0.469 -0.38 0.849 -0.849 0.849 H 31.69 c -0.469 0 -0.849 -0.38 -0.849 -0.849 l 0 0 c 0 -0.469 0.38 -0.849 0.849 -0.849 h 11.878 c 0.469 0 0.849 0.38 0.849 0.849 z" winding="nonZero" id="path22">
+								<fill>
+									<SolidColor color="#FFFFFF" alpha="1"/>
+								</fill>
+							</Path>
+						</Group>
+						<Group id="g24">
+							<Path data="m 44.417 66.173 c 0 -0.466 -0.395 -0.849 -0.877 -0.849 H 31.718 c -0.482 0 -0.876 0.383 -0.876 0.849 0 0.467 0.395 0.849 0.876 0.849 H 43.54 c 0.482 -0.001 0.877 -0.382 0.877 -0.849 z" winding="nonZero" id="path26">
+								<fill>
+									<SolidColor color="#FFFFFF" alpha="1"/>
+								</fill>
+							</Path>
+						</Group>
+						<Group id="g28">
+							<Path data="m 40.175 70.103 c 0 0.642 -0.52 1.161 -1.161 1.161 h -2.769 c -0.641 0 -1.161 -0.52 -1.161 -1.161 V 69.88 c 0 -0.642 0.52 -1.161 1.161 -1.161 h 2.769 c 0.641 0 1.161 0.52 1.161 1.161 v 0.223 z" winding="nonZero" id="path30">
+								<fill>
+									<SolidColor color="#FFFFFF" alpha="1"/>
+								</fill>
+							</Path>
+						</Group>
+						<Group id="g32">
+							<Path data="m 42.72 68.783 c 0 0.433 -0.351 0.783 -0.783 0.783 h -8.615 c -0.433 0 -0.784 -0.351 -0.784 -0.783 v -0.13 c 0 -0.433 0.351 -0.783 0.784 -0.783 h 8.615 c 0.433 0 0.783 0.351 0.783 0.783 v 0.13 z" winding="nonZero" id="path34">
+								<fill>
+									<SolidColor color="#FFFFFF" alpha="1"/>
+								</fill>
+							</Path>
+						</Group>
+					</Group>
+					<Group id="g36">
+						<Path data="m 38.833 10.453 c 0 0.664 -0.538 1.201 -1.202 1.201 h -0.003 c -0.664 0 -1.202 -0.538 -1.202 -1.201 V 4.439 c 0 -0.664 0.538 -1.202 1.202 -1.202 h 0.003 c 0.664 0 1.202 0.538 1.202 1.202 v 6.014 z" winding="nonZero" id="path38">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 26.147153 12.902713 c 0.408926 0.524408 0.31471 1.280112 -0.20891 1.688423 h 0 c -0.524408 0.408926 -1.280112 0.31471 -1.688423 -0.20891 L 20.552881 9.6412571 c -0.408311 -0.52362 -0.31471 -1.2801124 0.20891 -1.6884237 h 0 c 0.52362 -0.4083114 1.280113 -0.3147098 1.688423 0.2089101 l 3.696939 4.7409695 z" winding="nonZero" id="path40">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 16.097192 22.18597 c 0.577639 0.3335 0.777159 1.069922 0.445659 1.644097 l -5e-4 8.66e-4 c -0.3315 0.574175 -1.06902 0.769597 -1.646659 0.436097 l -5.1978842 -3.001 C 9.1201688 20.93253 8.9206491 20.196108 9.2521491 19.621933 l 5e-4 -8.66e-4 c 0.332 -0.575041 1.0690199 -0.769597 1.6466589 -0.436097 l 5.197884 3.001 z" winding="nonZero" id="path42">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 12.0775 34.8025 c 0.663 0 1.201 0.538 1.201 1.201 l 0 0.003 c 0 0.663 -0.538 1.201 -1.201 1.201 l -6.016 0 c -0.663 0 -1.201 -0.538 -1.201 -1.201 l 0 -0.003 c 0 -0.663 0.538 -1.201 1.201 -1.201 l 6.016 0 z" winding="nonZero" id="path44">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 14.90162 47.73997 c 0.574175 -0.3315 1.308231 -0.134078 1.639731 0.440097 l 0.001 0.0017 c 0.3315 0.574175 0.134944 1.307731 -0.439231 1.639231 l -5.210874 3.0085 c -0.574175 0.3315 -1.3085969 0.135444 -1.6400969 -0.438731 l -0.001 -0.0017 C 8.9196491 51.814892 9.1165707 51.07997 9.6907456 50.74847 l 5.2108744 -3.0085 z" winding="nonZero" id="path46">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 65.42 51.363 c 0.498 0.436 0.548 1.192 0.112 1.689 l -0.006 0.007 c -0.436 0.498 -1.191 0.549 -1.689 0.113 l -4.532 -3.966 c -0.498 -0.436 -0.549 -1.192 -0.112 -1.69 l 0.006 -0.007 c 0.435 -0.497 1.191 -0.548 1.689 -0.112 l 4.532 3.966 z" winding="nonZero" id="path48">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 70.396 36.011 c 0 0.661 -0.539 1.197 -1.204 1.197 h -6.008 c -0.665 0 -1.204 -0.536 -1.204 -1.197 V 36 c 0 -0.661 0.539 -1.197 1.204 -1.197 h 6.008 c 0.665 0 1.204 0.536 1.204 1.197 v 0.011 z" winding="nonZero" id="path50">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 64.367 19.18 c 0.571 -0.332 1.309 -0.132 1.64 0.439 l 0 0 c 0.332 0.577 0.137 1.311 -0.439 1.644 l -5.206 3.008 c -0.576 0.33 -1.309 0.134 -1.644 -0.441 l 0 0 c -0.334 -0.577 -0.135 -1.309 0.44 -1.644 l 5.209 -3.006 z" winding="nonZero" id="path52">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+						<Path data="m 52.372 8.066 c 0.33 -0.573 1.067 -0.771 1.641 -0.439 l 0 0 c 0.574 0.332 0.774 1.067 0.442 1.642 l -3.007 5.207 c -0.336 0.577 -1.067 0.772 -1.643 0.442 l 0 0 c -0.577 -0.334 -0.772 -1.067 -0.44 -1.644 l 3.007 -5.208 z" winding="nonZero" id="path54">
+							<fill>
+								<SolidColor color="#FFFFFF" alpha="1"/>
+							</fill>
+						</Path>
+					</Group>
+				</Group>
+			</Group>
+		</Group>
+	</Group>
+</Graphic>

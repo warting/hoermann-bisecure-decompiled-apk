@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="63.9995" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="11133580" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Path x="10" y="5" ai:objID="1058ee80" ai:seqID="3" d:userLabel="Copy — Used in text selection CABs to copy text to the clipboard." data="M31.3589 4.479 4.47852 4.479 4.47852 40.3223 6.71777 40.3223 6.71777 44.7998 4.47852 44.7998 0 44.7998 0 0 35.8354 0 35.8354 4.479 35.8354 6.71826 31.3589 6.71826 31.3589 4.479ZM34.8433 41.0693 17.9146 41.0693 17.9146 39.5762 34.8433 39.5762 34.8433
+ 41.0693ZM27.8706 36.584 17.9146 36.584 17.9146 35.0898 27.8706 35.0898 27.8706 36.584ZM30.8569 32.1045 17.9146 32.1045 17.9146 30.6123 30.8569 30.6123 30.8569 32.1045ZM35.8354 27.625 17.9146 27.625 17.9146 26.1328 35.8354 26.1328 35.8354 27.625Z
+M27.8706 23.1465 17.9146 23.1465 17.9146 21.6543 27.8706 21.6543 27.8706 23.1465ZM40.314 13.4438 13.436 13.4438 13.436 49.2783 40.314 49.2783 40.314 13.4438ZM8.95605 53.7578 8.95605 8.95654 44.7925 8.95654 44.7925 53.7578 8.95605 53.7578Z">
+        <fill>
+          <SolidColor color="#999999"/>
+        </fill>
+      </Path>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgCopy.assets/images" globalOffsetH="274.516" globalOffsetV="-39" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="8C15DD26A682294D49023E1913FB2F68" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64.0059" viewWidth="64.0059" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64.006" d:pageWidth="64.006" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="1379c580" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Background">
+      <Rect width="64.0059" height="64.0059" ai:objID="1b47be00" ai:seqID="3"/>
+    </Group>
+    <Group visible="false" ai:objID="1aeeb980" ai:seqID="4" d:id="3" d:type="layer" d:userLabel="BorderUp">
+      <Path x="7.22559" y="7.20508" alpha="0.8" winding="nonZero" ai:objID="13677300" ai:seqID="5" data="M49.6035 0 49.6035 49.6006 0 49.6006 0 0 49.6035 0M46.5029 3.09717 3.1001 3.09717 3.1001 46.5 46.5029 46.5 46.5029 3.09717 46.5029 3.09717Z">
+        <fill>
+          <SolidColor color="#333333"/>
+        </fill>
+      </Path>
+    </Group>
+    <Group visible="false" ai:objID="1303d200" ai:seqID="6" d:id="4" d:type="layer" d:userLabel="BorderUpSelected">
+      <Group x="7.20166" y="7.20459" ai:objID="137a2580" ai:seqID="7">
+        <Group alpha="0.8" ai:objID="1379c980" ai:seqID="8" flm:isolated="false" flm:knockout="false">
+          <Path winding="nonZero" ai:objID="d3fd600" ai:seqID="9" data="M46.5288 46.5259 3.10156 46.5259 3.10156 3.10156 43.4253 3.10156 43.4253 0 0 0 0 49.6284 49.6274 49.6284 49.6274 21.7124 46.5288 21.7124 46.5288 46.5259Z">
+            <fill>
+              <SolidColor color="#333333"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+    <Group visible="false" ai:objID="1303cf00" ai:seqID="10" d:id="5" d:type="layer" d:userLabel="BorderDown">
+      <Group x="1.08154" y="0.998047" ai:objID="1379b580" ai:seqID="11">
+        <Group x="6.18262" y="6.18896" alpha="0.8" ai:objID="1379e580" ai:seqID="12" flm:isolated="false" flm:knockout="false">
+          <Path winding="nonZero" ai:objID="d4e4280" ai:seqID="13" data="M49.4644 0 49.4644 49.4614 0 49.4614 0 0 49.4644 0M46.3765 3.08887 3.09229 3.08887 3.09229 46.3706 46.3765 46.3706 46.3765 3.08887 46.3765 3.08887Z">
+            <fill>
+              <SolidColor color="#333333"/>
+            </fill>
+          </Path>
+        </Group>
+        <Group alpha="0.6" ai:objID="1379f080" ai:seqID="14" flm:isolated="false" flm:knockout="false">
+          <Path winding="nonZero" ai:objID="d4de280" ai:seqID="15" data="M58.7417 3.09424 58.7417 58.7441 3.09131 58.7441 3.09131 3.09424 58.7417 3.09424M61.8335 0 58.7417 0 3.09131 0 0 0 0 3.09424 0 58.7441 0 61.8369 3.09131 61.8369 58.7417 61.8369 61.8335 61.8369 61.8335 58.7441 61.8335 3.09424 61.8335 0 61.8335
+ 0Z">
+            <fill>
+              <SolidColor color="#33B5E5"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+    <Group visible="false" ai:objID="1303ce00" ai:seqID="16" d:id="6" d:type="layer" d:userLabel="BorderDownSelected">
+      <Group x="1.08594" y="0.998047" ai:objID="13040600" ai:seqID="17">
+        <Group x="6.18359" y="6.18652" alpha="0.8" ai:objID="13040b00" ai:seqID="18" flm:isolated="false" flm:knockout="false">
+          <Path winding="nonZero" ai:objID="cb00c80" ai:seqID="19" data="M46.3838 46.3809 3.09277 46.3809 3.09277 3.09277 43.291 3.09277 43.291 0 0 0 0 49.4736 49.4727 49.4736 49.4727 21.645 46.3838 21.645 46.3838 46.3809Z">
+            <fill>
+              <SolidColor color="#333333"/>
+            </fill>
+          </Path>
+        </Group>
+        <Group alpha="0.6" ai:objID="13040a00" ai:seqID="20" flm:isolated="false">
+          <Path winding="nonZero" ai:objID="cb02180" ai:seqID="21" data="M58.752 58.752 3.0918 58.752 3.0918 3.09521 49.4746 3.09521 49.4746 0 3.0918 0 0 0 0 3.09521 0 58.752 0 61.8438 3.0918 61.8438 58.752 61.8438 61.8438 61.8438 61.8438 58.752 61.8438 21.647 58.752 21.647 58.752 58.752Z">
+            <fill>
+              <SolidColor color="#33B5E5"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+    <Group ai:objID="1303cd00" ai:seqID="22" d:id="7" d:type="layer" d:userLabel="SymbolUp">
+      <Path x="15.7012" y="5.84766" winding="nonZero" ai:objID="12ee9480" ai:seqID="23" data="M41.3066 0 16.2778 28.5215 6.13721 19.6221 0 26.6196 17.1353 41.6533 48.3018 6.1333 41.3066 0Z">
+        <fill>
+          <SolidColor color="#343434"/>
+        </fill>
+      </Path>
+    </Group>
+    <Group visible="false" ai:objID="1303cc00" ai:seqID="24" d:id="8" d:type="layer" d:userLabel="SymbolDown">
+      <Path x="15.7012" y="5.84766" winding="nonZero" ai:objID="12ee3780" ai:seqID="25" data="M41.3066 0 16.2778 28.5215 6.13721 19.6221 0 26.6196 17.1353 41.6533 48.3018 6.1333 41.3066 0Z">
+        <fill>
+          <LinearGradient x="33.1416" y="25.3672" scaleX="21.2012" rotation="224.999">
+            <GradientEntry ratio="0" color="#0099CC"/>
+            <GradientEntry ratio="1" color="#33B5E5"/>
+          </LinearGradient>
+        </fill>
+      </Path>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I rasterizeResolution 72 I expandBlendsOption 5 B downsampleLinkedImages 0 I preserveGradientPolicy 4 I preserveTextPolicy 4 I preserveFilterPolicy 3 B includeXMP 0 B writeImages 1 B includeSymbol 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="Checkbox_SymbolUp.assets/images" rulerCanvasDiffH="32.5" rulerCanvasDiffV="32.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="ACE27EEFE20DD2C14D9B64B5DF8C8845" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 257"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="277C88AB057FBF9AA79950449DF86150" d:ref="#3">
+        <ai:LayerOptions color="5 79.31 257 128.502" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="D2A5AFEA3EBFAF94550797085C9B8346" d:ref="#4">
+        <ai:LayerOptions color="5 257 79.31 79.31" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="79DD3524BD7FEE27B550F194D83EB36E" d:ref="#5">
+        <ai:LayerOptions color="5 79.31 79.31 257" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="AF030A1EB1A9E9E1502CEC25B9D9DB50" d:ref="#6">
+        <ai:LayerOptions color="5 79.31 257 79.31" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="32B2CA6AFC6DD44501764F602BE7F322" d:ref="#7">
+        <ai:LayerOptions color="5 257 79.31 257"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="D506C64D2956C7832284E42CA337B20D" d:ref="#8">
+        <ai:LayerOptions color="5 257 257 79.31" visible="0"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

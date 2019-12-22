@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="64" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group d:type="layer" d:userLabel="Ebene 1">
+      <Group x="5.00049" y="5" ai:seqID="1">
+        <Rect visible="false" width="53.9995" height="53.999" radiusX="4.97932" radiusY="4.97932" ai:seqID="2" d:userLabel="Background">
+          <fill>
+            <SolidColor color="#1C3D75"/>
+          </fill>
+        </Rect>
+        <Path y="40.499" winding="nonZero" ai:seqID="3" d:userLabel="Line" data="M0 6 21.7505 6 21.7505 0 32.2495 0 32.2495 6 53.9995 6">
+          <stroke>
+            <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Path x="8.25" y="8.25" winding="nonZero" ai:seqID="4" d:userLabel="Screen" data="M36.5044 0 0.995605 0C0.445801 0 0 0.445801 0 0.995605L0 29.0049C0 29.5547 0.445801 30 0.995605 30L36.5044 30C37.0542 30 37.4995 29.5547 37.4995 29.0049L37.4995 0.995605C37.4995 0.445801 37.0542 0 36.5044 0ZM18.7505 27.8447C18.0776 27.8447 17.5308
+ 27.2988 17.5308 26.625 17.5308 25.9512 18.0776 25.4053 18.7505 25.4053 19.4243 25.4053 19.9702 25.9512 19.9702 26.625 19.9702 27.2988 19.4243 27.8447 18.7505 27.8447ZM35.2495 22.1904C35.2495 22.7754 34.7749 23.25 34.1899 23.25L3.30908 23.25C2.72412
+ 23.25 2.25 22.7754 2.25 22.1904L2.25 3.30908C2.25 2.72412 2.72412 2.25 3.30908 2.25L34.1899 2.25C34.7749 2.25 35.2495 2.72412 35.2495 3.30908L35.2495 22.1904Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

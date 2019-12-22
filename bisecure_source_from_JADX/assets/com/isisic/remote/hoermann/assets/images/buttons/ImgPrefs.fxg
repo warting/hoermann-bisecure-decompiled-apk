@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="63.9995" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="1112c880" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="4.99902" y="5" ai:objID="d65b000" ai:seqID="3">
+        <Group ai:objID="d656a00" ai:seqID="4">
+          <Rect x="21.6719" width="10.9878" height="7.84814" radiusX="0.873502" radiusY="0.873502" ai:objID="11043d00" ai:seqID="5">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Rect rotation="319.997" x="5.68487" y="9.99724" width="10.9882" height="7.84774" radiusX="0.87356" radiusY="0.87356" ai:objID="1103ed80" ai:seqID="6">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Rect rotation="280.002" x="-0.138016" y="27.9322" width="10.9882" height="7.84823" radiusX="0.872553" radiusY="0.872553" ai:objID="11042980" ai:seqID="7">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Path x="1.75699" y="32.2956" winding="nonZero" ai:objID="1103a100" ai:seqID="8" data="M5.71567 0.117462C6.13315 -0.124725 6.6727 0.0198059 6.91293 0.438751L11.5321 8.43484C11.7733 8.85281 11.6288 9.38992 11.2098 9.63211L5.93344 12.68C5.51547 12.9192 4.97592 12.7747 4.7352 12.3557L0.116547 4.36356C-0.123688 3.94461 0.0188904 3.40457
+ 0.438812 3.16434L5.71567 0.117462Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Rect rotation="200.007" x="23.5797" y="54.2621" width="10.989" height="7.84949" radiusX="0.874012" radiusY="0.874012" ai:objID="11036080" ai:seqID="9">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Rect rotation="159.975" x="42.026" y="50.3352" width="10.9894" height="7.84633" radiusX="0.875449" radiusY="0.875449" ai:objID="11041300" ai:seqID="10">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Path x="41.6639" y="31.8729" winding="nonZero" ai:objID="1103da00" ai:seqID="11" data="M0.43811 9.63496C0.0201416 9.39472 -0.12439 8.85371 0.116821 8.43476L4.73206 0.439644C4.97327 0.0206985 5.51233 -0.123833 5.93127 0.115425L11.2047 3.16328C11.6256 3.40546 11.7692 3.94355 11.527 4.3625L6.91467 12.3586C6.67249 12.7775 6.13342 12.9211
+ 5.71448 12.6809L0.43811 9.63496Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Rect rotation="79.9934" x="52.9687" y="16.6304" width="10.9884" height="7.84888" radiusX="0.872401" radiusY="0.872401" ai:objID="11043880" ai:seqID="12">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+          <Rect rotation="39.9923" x="40.3465" y="2.62051" width="10.9897" height="7.84718" radiusX="0.872315" radiusY="0.872315" ai:objID="11041900" ai:seqID="13">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Rect>
+        </Group>
+        <Path x="6.17969" y="5.81543" winding="nonZero" ai:objID="1103ea80" ai:seqID="14" data="M42.3823 21.1934C42.3823 32.8994 32.897 42.3828 21.1909 42.3828 9.4873 42.3828 0 32.8994 0 21.1934 0 9.48975 9.4873 0 21.1909 0 32.897 0 42.3823 9.48975 42.3823 21.1934Z">
+          <fill>
+            <SolidColor color="#999999"/>
+          </fill>
+        </Path>
+        <Ellipse x="8.53418" y="8.17017" width="37.6743" height="37.6743" ai:objID="1103aa00" ai:seqID="15">
+          <fill>
+            <SolidColor color="#343434"/>
+          </fill>
+        </Ellipse>
+        <Path x="19.522" y="19.1582" winding="nonZero" ai:objID="11040e80" ai:seqID="16" data="M15.6973 7.85254C15.6973 12.1855 12.1826 15.6973 7.84326 15.6973 3.51367 15.6973 0 12.1855 0 7.85254 0 3.51221 3.51367 0 7.84326 0 12.1826 0 15.6973 3.51221 15.6973 7.85254Z">
+          <fill>
+            <SolidColor color="#999999"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgPrefs.assets/images" globalOffsetH="274.516" globalOffsetV="-39" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="54D22962021256E3D3CC8B14811D116E" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

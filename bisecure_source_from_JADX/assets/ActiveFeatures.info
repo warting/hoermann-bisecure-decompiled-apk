@@ -1,0 +1,38 @@
+# Console log levels
+Console.WRITE_ERROR=false
+Console.WRITE_WARNING=false
+Console.WRITE_INFO=false
+Console.WRITE_DEBUG=false
+
+# Log incoming MCP packages
+Console.TRACE_INPUT=false
+#Log outgoing MCP packages
+Console.TRACE_OUTPUT=false
+
+# Enable Net-Debug menu entry
+Feature.NET_DEBUGGING=false
+
+# Logout the user when the app is not in foreground
+Feature.AUTO_LOGOUT=false
+# Show WIFI settings in the options
+Feature.SHOW_WIFI=true
+# Validate the inherit process after it finished
+Feature.VALIDATE_INHERIT_PORT=false
+# Show a popup when the app receives an invalid MCP-Token
+Feature.SHOW_INVALID_TOKEN=false
+# Show the Debug label in the BottomBar
+Feature.SHOW_DEBUG_LABEL=false
+# Connect to the development portal server
+Feature.USE_DEV_PORTAL=false
+# Force the app to calculate sizes with this dpi value (0 to deactivate)
+Feature.FORCE_DPI=0
+
+# Show the Channel Id on the actor button
+Feature.CHANNEL_ON_BUTTON=false
+
+# Enable a input dialog for Gateway Hostnames
+Feature.ENABLE_DDNS=false
+
+Feature.ENABLE_ADD_PORTAL=false
+Feature.ENABLE_SCENARIO_HOTFIX=false
+Feature.PRESENTER_VERSION=false

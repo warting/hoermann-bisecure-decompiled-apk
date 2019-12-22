@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="81" viewWidth="84" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="layer" ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="81" d:pageWidth="84" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group blendMode="normal" ai:objID="d58ca80" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group blendMode="normal" ai:objID="d22ef80" ai:seqID="3" flm:knockout="false">
+        <BitmapImage blendMode="multiply" alpha="0.75" source="@Embed('HALF.assets/images/Image_0001.png')" fillMode="clip" ai:embed="1" ai:objID="127abc00" ai:seqID="4"/>
+        <Group x="3.13867" y="3.21875" ai:objID="d22f080" ai:seqID="5">
+          <Group ai:objID="d22f180" ai:seqID="6">
+            <Path winding="nonZero" ai:objID="127ac680" ai:seqID="7" data="M0 7.52832C5.66797 7.52832 10.5742 5.83789 11.6738 1.6084L17.5938 1.6084 17.5938 37.3906 10.2344 37.3906 10.2344 12.4365 0 12.4365 0 7.52832ZM45.2813 0 51.877 0 16.5176 63.2773 9.83594 63.2773 45.2813 0ZM65.668 61.2471 38.6836 61.2471C38.7656
+ 53.9717 41.3906 49.8271 47.0566 46.4434L53.2324 42.6357C56.4473 40.6895 58.5625 38.4902 58.5625 35.4463 58.5625 32.6533 56.6152 30.623 53.1484 30.623 48.1563 30.623 46.9707 34.0928 46.7188 37.6455L39.3594 37.6455C39.3594 30.1162 44.3496 24.7021
+ 53.2324 24.7021 61.1836 24.7021 65.9219 28.7627 65.9219 35.4463 65.9219 40.6895 62.3691 44.1582 57.4629 47.0352L51.625 50.5879C49.4258 51.9414 47.7344 53.4639 47.2246 55.3252L65.668 55.3252 65.668 61.2471Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I expandBlendsOption 5 B downsampleLinkedImages 0 I rasterizeResolution 72 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I preserveTextPolicy 4 B includeObjectOutsideArtboard 0 I versionKey 2 B aiEditCap 1 B includeSymbol 0 B writeImages 1 B includeXMP 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="HALF.assets/images" globalOffsetH="-19.1" globalOffsetV="14.1" rulerCanvasDiffH="24.5" rulerCanvasDiffV="24.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 5 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict>
+            <ai:Entry name="0" value="Image_0001.png" valueType="U"/>
+          </ai:Dict>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="92ABDD6AE097A163BD1E66B3D548E5E4" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

@@ -1,0 +1,23 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.7">
+	<id>be.aboutme.nativeExtensions.udp.UDPSocket</id>
+	<versionNumber>1.1.0</versionNumber>
+	<platforms>
+		<platform name="iPhone-ARM">
+			<applicationDeployment>
+				<nativeLibrary>ios.a</nativeLibrary>
+				<initializer>UDPSocketiOSLibraryExtInitializer</initializer>
+				<finalizer>UDPSocketiOSLibraryExtFinalizer</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="Android-ARM">
+			<applicationDeployment>
+				<nativeLibrary>classes.jar</nativeLibrary>
+				<initializer>de.hoermann.ast.ee.mawe.udp.UDPSocketAndroidLibrary</initializer>
+				<finalizer>de.hoermann.ast.ee.mawe.udp.UDPSocketAndroidLibrary</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="default">
+			<applicationDeployment />
+		</platform>
+	</platforms>
+</extension>

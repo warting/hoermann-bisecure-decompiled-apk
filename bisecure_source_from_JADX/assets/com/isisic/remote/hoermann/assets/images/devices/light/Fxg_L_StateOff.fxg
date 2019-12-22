@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="123" viewWidth="109" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="123" d:pageWidth="109" d:type="layer" d:userLabel="Artboard 1">
+    <Group d:type="layer" d:userLabel="Layer 1">
+      <Group x="28.5" y="29.1924" ai:seqID="1">
+        <Group ai:seqID="2">
+          <Group ai:seqID="3" flm:knockout="false">
+            <Path winding="nonZero" ai:seqID="4" data="M26.5 4C34.6533 4 40.1885 8.96973 42.7617 11.9321 46.5518 16.2939 49 22.0122 49 26.5 49 30.5977 46.9502 35.7627 43.6504 39.9775 43.6348 39.998 43.6201 40.0186 43.6045 40.0381 43.6045 40.0391 43.6035 40.04 43.6035 40.04 43.292 40.4346 42.9775 40.8135
+ 42.6689 41.165 42.6211 41.2188 42.5742 41.2744 42.5293 41.3311 39.4209 45.2773 37.2441 49.8613 36.2334 54.5879 36.2285 54.6074 36.2246 54.627 36.2207 54.6465L34.9414 61.0986C34.9199 61.209 34.9023 61.3203 34.8896 61.4326 34.8662 61.6426 34.5283
+ 61.9434 34.3164 61.9434L18.6836 61.9434C18.4717 61.9434 18.1343 61.6426 18.1108 61.4326 18.0986 61.3213 18.0815 61.21 18.0596 61.0996L16.7754 54.6152C16.771 54.5947 16.7666 54.5732 16.7622 54.5518 15.7524 49.8535 13.5859 45.292 10.4966 41.3604
+ 10.4502 41.3018 10.4023 41.2441 10.353 41.1875 10.0273 40.8184 9.7041 40.4297 9.39209 40.0322 9.37842 40.0146 9.36426 39.9961 9.34961 39.9775 6.0498 35.7627 4 30.5981 4 26.5 4 22.0122 6.44873 16.2939 10.2383 11.9321 12.812 8.96973 18.3472 4 26.5
+ 4ZM26.5 0C10.416 0 0 15.9902 0 26.5 0 31.3477 2.22559 37.3662 6.2002 42.4434L6.19727 42.4434C6.20703 42.4551 6.21484 42.4648 6.22461 42.4756 6.58594 42.9365 6.96094 43.3887 7.35156 43.832 10.2246 47.4883 12.0293 51.5664 12.8516 55.3926L14.1357
+ 61.877C14.3857 64.1133 16.4336 65.9434 18.6836 65.9434L34.3164 65.9434C36.5674 65.9434 38.6152 64.1133 38.8652 61.877L40.1445 55.4248C40.9668 51.5801 42.7793 47.4785 45.6719 43.8066 46.043 43.3848 46.4004 42.9531 46.7451 42.5156 46.7656 42.4922
+ 46.7852 42.4668 46.8066 42.4434L46.8008 42.4434C50.7744 37.3662 53 31.3477 53 26.5 53 15.9902 42.584 0 26.5 0L26.5 0Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+          <Group x="16.5" y="67.6143" ai:seqID="5" flm:knockout="false">
+            <Rect width="20" height="3" radiusX="1.3686" radiusY="1.3686" ai:seqID="6">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Rect>
+          </Group>
+          <Group x="16.5" y="71.6143" ai:seqID="7" flm:knockout="false">
+            <Rect width="20" height="3" radiusX="1.41458" radiusY="1.41458" ai:seqID="8">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Rect>
+          </Group>
+          <Group x="21.5" y="77.6143" ai:seqID="9" flm:knockout="false">
+            <Path winding="nonZero" ai:seqID="10" data="M10 1.5C10 0.674805 9.20508 0 8.23242 0L1.76758 0C0.79541 0 0 0.674805 0 1.5 0 2.3252 0.79541 3 1.76758 3L8.23242 3C9.20508 3 10 2.3252 10 1.5Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+          <Group x="18.5" y="75.6143" ai:seqID="11" flm:knockout="false">
+            <Rect width="16" height="3" radiusX="1.30848" radiusY="1.30848" ai:seqID="12">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Rect>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

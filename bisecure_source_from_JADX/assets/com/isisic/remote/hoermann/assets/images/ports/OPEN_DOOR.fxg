@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="85" viewWidth="84" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="85" d:pageWidth="84" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group visible="false" d:type="layer" d:userLabel="Layer 3">
+      <Group x="12.5371" y="1.16699" ai:seqID="1">
+        <filters>
+          <DropShadowFilter blurX="6" blurY="6" quality="2" color="#0B0F3F" alpha="0.75" angle="50.1944" distance="7.81025"/>
+        </filters>
+        <Group x="17.5103" ai:seqID="2" flm:knockout="false">
+          <Path x="0.000183105" y="-0.000193596" winding="nonZero" ai:seqID="3" data="M2.72443 5.70332C10.4656 -1.61016 21.9954 -2.02422 28.8568 5.23945 35.7103 12.4919 34.6439 23.9812 26.9046 31.2951L24.8675 33.2209C24.0569 33.9865 22.8646 34.0524 22.095 33.2385 21.3255 32.425 21.4651 31.2458 22.2737 30.4797L24.3167 28.5549C30.428
+ 22.778 31.221 13.652 25.9017 8.02217 20.5765 2.38887 11.4295 2.66963 5.31476 8.44355L3.27618 10.3708C2.46564 11.1359 1.27814 11.2048 0.511536 10.3952 -0.259949 9.57734 -0.124207 8.39521 0.68634 7.6291L2.72443 5.70332Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+        <Group y="37.8926" ai:seqID="4" flm:knockout="false">
+          <Path winding="nonZero" ai:seqID="5" data="M38.7041 0 9.0791 0C3.93457 0 0 3.43213 0 8.42676L0 24.5127C0 29.5078 3.93457 33.9502 9.0791 33.9502L38.7041 33.9502C43.8477 33.9502 47.7813 29.5078 47.7813 24.5127L47.7813 8.42676C47.7813 3.43213 43.8477 0 38.7041 0ZM26.4053 16.9082 26.4053 20.6475
+C26.4053 22.5 25.4839 24.0225 23.8906 24.0225 22.293 24.0225 21.3755 22.5 21.3755 20.6475L21.3755 16.9082C20.1187 16.084 19.4458 14.8379 19.4458 13.4219 19.4458 10.9277 21.4248 8.91699 23.9878 8.91699 26.5513 8.91699 28.3857 10.9277 28.3857 13.4219
+ 28.3857 14.8379 27.6631 16.084 26.4053 16.9082Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+    <Group d:type="layer" d:userLabel="Layer 4">
+      <Group x="13.1465" y="4.25" ai:seqID="6">
+        <filters>
+          <DropShadowFilter blurX="6" blurY="6" quality="2" color="#0B0F3F" alpha="0.75" angle="50.1944" distance="7.81025"/>
+        </filters>
+        <Path x="3" y="3" winding="nonZero" ai:seqID="7" data="M0 63.8291 0 0 46.7754 0 46.7754 63.8291">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Group x="17.6172" y="6.89648" ai:seqID="8" flm:knockout="false">
+          <Path winding="nonZero" ai:seqID="9" data="M0 0 0 52.623 28.2607 61.3936 28.2607 0 0 0ZM4.38525 36.3018 2.92334 36.3018 2.92334 9.50244 4.38525 9.50244 4.38525 36.3018Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+    <Group blendMode="normal" visible="false" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="-2.99951" y="-0.999512" blendMode="normal" ai:seqID="10">
+        <Group blendMode="normal" ai:seqID="11">
+          <BitmapImage scaleX="1.00001" blendMode="multiply" alpha="0.75" source="@Embed('OPEN_DOOR.assets/images/Image_0003.png')" fillMode="clip" ai:seqID="12"/>
+          <Group x="2.99951" y="3.99951" ai:seqID="13">
+            <Group ai:seqID="14">
+              <Path winding="nonZero" ai:seqID="15" data="M70 35C70 54.332 54.334 70 35 70 15.6699 70 0 54.332 0 35 0 15.6719 15.6699 0 35 0 54.334 0 70 15.6719 70 35Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+              <Path x="6" y="6" winding="nonZero" ai:seqID="16" data="M58 29C58 45.0156 45.0146 58 29 58 12.9883 58 0 45.0156 0 29 0 12.9805 12.9883 0 29 0 45.0146 0 58 12.9805 58 29Z">
+                <fill>
+                  <SolidColor color="#003A7D"/>
+                </fill>
+              </Path>
+              <Path x="6" y="6" winding="nonZero" ai:seqID="17" data="M58 29C58 45.0156 45.0146 58 29 58 12.9883 58 0 45.0156 0 29 0 12.9805 12.9883 0 29 0 45.0146 0 58 12.9805 58 29Z">
+                <fill>
+                  <SolidColor color="#003A7D"/>
+                </fill>
+              </Path>
+              <Path x="31.002" y="30.998" winding="nonZero" ai:seqID="18" data="M8 4.00195C8 6.21094 6.20996 8 3.99805 8 1.79004 8 0 6.21094 0 4.00195 0 1.78906 1.79004 0 3.99805 0 6.20996 0 8 1.78906 8 4.00195Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+            </Group>
+          </Group>
+        </Group>
+        <Path x="37.9995" y="13.9995" winding="nonZero" ai:seqID="19" data="M0 25 25 25C25 11.1914 13.8057 0 0 0L0 25Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+    <Group visible="false" d:type="layer" d:userLabel="Layer 2">
+      <Group x="12.603" y="10.4731" ai:seqID="20">
+        <filters>
+          <DropShadowFilter blurX="6" blurY="6" quality="2" color="#0B0F3F" alpha="0.75" angle="50.1944" distance="7.81025"/>
+        </filters>
+        <Group x="6.24268" ai:seqID="21" flm:knockout="false">
+          <Path winding="nonZero" ai:seqID="22" data="M0 19.1797C0 8.60449 7.56592 0 17.4849 0 27.3955 0 34.9648 8.60449 34.9648 19.1797L34.9648 21.9648C34.9648 23.0723 34.2002 23.9771 33.0889 23.9771 31.9756 23.9771 31.2188 23.0723 31.2188 21.9648L31.2188 19.1797C31.2188 10.8262 25.1729 4.03125
+ 17.4795 4.03125 9.78271 4.03125 3.74707 10.8262 3.74707 19.1797L3.74707 21.9648C3.74707 23.0723 2.98584 23.9771 1.87793 23.9771 0.761719 23.9771 0 23.0723 0 21.9648L0 19.1797Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+        <Group y="28.5981" ai:seqID="23" flm:knockout="false">
+          <Path winding="nonZero" ai:seqID="24" data="M38.4341 0 9.01611 0C3.90674 0 0 3.40771 0 8.36816L0 24.3428C0 29.3037 3.90674 33.7148 9.01611 33.7148L38.4341 33.7148C43.5435 33.7148 47.4507 29.3037 47.4507 24.3428L47.4507 8.36816C47.4507 3.40771 43.5435 0 38.4341 0ZM26.2231 16.792 26.2231
+ 20.5068C26.2231 22.3438 25.3066 23.8545 23.7251 23.8545 22.1382 23.8545 21.2275 22.3438 21.2275 20.5068L21.2275 16.792C19.979 15.9717 19.3115 14.7354 19.3115 13.3291 19.3115 10.8535 21.2769 8.85645 23.8203 8.85645 26.3672 8.85645 28.1885 10.8535
+ 28.1885 13.3291 28.1885 14.7354 27.4712 15.9717 26.2231 16.792Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

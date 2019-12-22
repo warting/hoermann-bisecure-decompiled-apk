@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="64" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group d:type="layer" d:userLabel="Ebene 1">
+      <Group x="3.35645" y="3.6748" alpha="0.6" ai:seqID="1" flm:isolated="false">
+        <Path x="1.64355" y="1.3252" winding="nonZero" ai:seqID="2" data="M53.999 27.001C53.999 41.9141 41.915 54 27 54 12.0884 54 0 41.9141 0 27.001 0 12.0898 12.0884 0 27 0 41.915 0 53.999 12.0898 53.999 27.001Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Ellipse x="3.76514" y="3.448" width="49.7563" height="49.7563" ai:seqID="3">
+          <fill>
+            <SolidColor color="#1C3D75"/>
+          </fill>
+        </Ellipse>
+        <Group ai:seqID="4">
+          <mask>
+            <Group x="1.64355" y="1.3252" ai:spare="1">
+              <Path winding="nonZero" ai:seqID="5" data="M53.999 27.001C53.999 41.9141 41.915 54 27 54 12.0884 54 0 41.9141 0 27.001 0 12.0898 12.0884 0 27 0 41.915 0 53.999 12.0898 53.999 27.001Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+            </Group>
+          </mask>
+          <Group x="12.3506" ai:seqID="6">
+            <Path x="1.00024" y="0.593262" winding="nonZero" ai:seqID="7" data="M8.97534 0C-2.99194 16.2295 -2.99194 40.1304 8.97534 56.3599">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="16.2915" y="0.593262" winding="nonZero" ai:seqID="8" data="M0.00146484 0C-0.000488281 16.2295 -0.000488281 40.1304 0.00146484 56.3599">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="22.6123" y="0.593262" winding="nonZero" ai:seqID="9" data="M0 0C11.9678 16.2295 11.9678 40.1304 0 56.3599">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+          </Group>
+          <Group y="6.98975" ai:seqID="10">
+            <Path x="0.463867" y="21.1279" winding="nonZero" ai:seqID="11" data="M56.3604 0C38.8125 0 17.5483 0 0 0">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="0.463867" y="0.885742" winding="nonZero" ai:seqID="12" data="M56.3604 0C38.8125 9.19287 17.5483 9.19287 0 0">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="0.463867" y="34.4749" winding="nonZero" ai:seqID="13" data="M56.3604 6.89478C38.8125 -2.29858 17.5483 -2.29858 0 6.89478">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.16.0" build="20170305" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="be/aboutme/nativeExtensions/udp/implementation/IUDPSocketImplementation" mod="1363959972000" signatureChecksum="2988795396" >
+        <def id="be.aboutme.nativeExtensions.udp.implementation:IUDPSocketImplementation" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <script name="be/aboutme/nativeExtensions/udp/UDPSocket" mod="1506006058335" signatureChecksum="1399386684" >
+        <def id="be.aboutme.nativeExtensions.udp:UDPSocket" /> 
+        <dep id="be.aboutme.nativeExtensions.udp.implementation:IUDPSocketImplementation" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="be.aboutme.nativeExtensions.udp.implementation:NativeImplementation" type="e" /> 
+        <dep id="be.aboutme.nativeExtensions.udp.implementation:ActionscriptImplementation" type="e" /> 
+        <dep id="flash.events:DatagramSocketDataEvent" type="e" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <script name="be/aboutme/nativeExtensions/udp/implementation/ActionscriptImplementation" mod="1363961232000" signatureChecksum="1827584243" >
+        <def id="be.aboutme.nativeExtensions.udp.implementation:ActionscriptImplementation" /> 
+        <dep id="flash.net:DatagramSocket" type="s" /> 
+        <dep id="be.aboutme.nativeExtensions.udp:UDPSocket" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.events:DatagramSocketDataEvent" type="s" /> 
+        <dep id="flash.net:DatagramSocket" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.events:DatagramSocketDataEvent" type="e" /> 
+        <dep id="be.aboutme.nativeExtensions.udp.implementation:IUDPSocketImplementation" type="i" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <script name="_776aa4ffabbb1b8d34c4ef7f9eab6cb8021693b9fa8f8e7247291cdf308dfbec_flash_display_Sprite" mod="1515760329439" signatureChecksum="3390864819" >
+        <def id="_776aa4ffabbb1b8d34c4ef7f9eab6cb8021693b9fa8f8e7247291cdf308dfbec_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <script name="be/aboutme/nativeExtensions/udp/implementation/NativeImplementation" mod="1515759970300" signatureChecksum="3912303388" >
+        <def id="be.aboutme.nativeExtensions.udp.implementation:NativeImplementation" /> 
+        <dep id="be.aboutme.nativeExtensions.udp:UDPSocket" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="flash.events:DatagramSocketDataEvent" type="s" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.desktop:NativeApplication" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:DatagramSocketDataEvent" type="e" /> 
+        <dep id="be.aboutme.nativeExtensions.udp.implementation:IUDPSocketImplementation" type="i" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="3c7f9a709d0fb0a521540680d3ca9aa6b4dc6d48bd60a0223f1651f006a1be76"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

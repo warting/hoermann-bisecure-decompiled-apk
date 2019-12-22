@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="85" viewWidth="84" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="layer" ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="85" d:pageWidth="84" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group blendMode="normal" ai:objID="124cd300" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group blendMode="normal" ai:objID="12a67a00" ai:seqID="3">
+        <BitmapImage blendMode="multiply" alpha="0.75" source="@Embed('IMPULS.assets/images/Image_0001.png')" fillMode="clip" ai:embed="1" ai:objID="12aaf380" ai:seqID="4"/>
+        <Group x="3" y="3.75781" ai:objID="12a67700" ai:seqID="5">
+          <Group ai:objID="12a67600" ai:seqID="6">
+            <Path winding="nonZero" ai:objID="12aaf800" ai:seqID="7" data="M66 33.001C66 51.2275 51.2285 66 33 66 14.7754 66 0 51.2275 0 33.001 0 14.7764 14.7754 0 33 0 51.2285 0 66 14.7764 66 33.001Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+            <Path x="5.5" y="5.5" winding="nonZero" ai:objID="12aaf500" ai:seqID="8" data="M55 27.501C55 42.6885 42.6865 55 27.5 55 12.3164 55 0 42.6885 0 27.501 0 12.3115 12.3164 0 27.5 0 42.6865 0 55 12.3115 55 27.501Z">
+              <fill>
+                <SolidColor color="#1C3D75"/>
+              </fill>
+            </Path>
+            <Path x="14.002" y="13.998" winding="nonZero" ai:objID="12aaf680" ai:seqID="9" data="M38 19.0137C38 29.5029 29.4951 38 18.9893 38 8.50488 38 0 29.5029 0 19.0137 0 8.50391 8.50488 0 18.9893 0 29.4951 0 38 8.50391 38 19.0137Z">
+              <fill>
+                <SolidColor color="#FFFFFF"/>
+              </fill>
+            </Path>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I expandBlendsOption 5 B downsampleLinkedImages 0 I rasterizeResolution 72 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I preserveTextPolicy 4 B includeObjectOutsideArtboard 0 I versionKey 2 B aiEditCap 1 B includeSymbol 0 B writeImages 1 B includeXMP 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="IMPULS.assets/images" globalOffsetH="-18" globalOffsetV="19" rulerCanvasDiffH="24.5" rulerCanvasDiffV="24.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 5 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict>
+            <ai:Entry name="0" value="Image_0001.png" valueType="U"/>
+          </ai:Dict>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="B252D02D56708AECFFD315C05D89618E" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

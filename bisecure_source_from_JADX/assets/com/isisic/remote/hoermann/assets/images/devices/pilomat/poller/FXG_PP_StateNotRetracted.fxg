@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="126" viewWidth="80" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="126" d:pageWidth="80" d:type="layer" d:userLabel="Artboard 1">
+    <Group visible="false" d:type="layer" d:userLabel="BG">
+      <Rect x="-1.5" y="-1.5" width="82.75" height="129.5" ai:seqID="1">
+        <fill>
+          <SolidColor color="#FF7171"/>
+        </fill>
+      </Rect>
+    </Group>
+    <Group visible="false" d:type="layer" d:userLabel="Eingefahren">
+      <Group x="16.1563" y="104.418" ai:seqID="2">
+        <Path y="6.58398" winding="nonZero" ai:seqID="3" data="M47.5596 8.2168 47.5596 0.836914C47.5596 0.836914 47.5596 0 46.7168 0L0.840332 0C0.840332 0 0 0 0 0.836914L0 8.2168C0 8.2168 0 9.05859 0.840332 9.05859L46.7168 9.05859C46.7168 9.05859 47.5596 9.05859 47.5596 8.2168">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path x="0.154785" winding="nonZero" ai:seqID="4" data="M46.3804 0 0 0 0 3.06152C0 3.06152 0 3.93555 0.867188 3.93555L47.2505 3.93555 47.2505 0.867188C47.2505 0.867188 47.2505 0 46.3804 0">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+      <Rect y="122.823" width="79.873" height="3.17676" ai:seqID="5">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Rect>
+      <Rect width="80" height="126" ai:seqID="6"/>
+    </Group>
+    <Group d:type="layer" d:userLabel="nicht Ausgefahren">
+      <Group y="51.4175" ai:seqID="7">
+        <Path x="16.1563" y="6.58496" winding="nonZero" ai:seqID="8" data="M47.5596 8.21631 47.5596 0.836426C47.5596 0.836426 47.5596 0 46.7168 0L0.840332 0C0.840332 0 0 0 0 0.836426L0 8.21631C0 8.21631 0 9.05811 0.840332 9.05811L46.7168 9.05811C46.7168 9.05811 47.5596 9.05811 47.5596 8.21631">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path x="16.311" winding="nonZero" ai:seqID="9" data="M46.3804 0 0 0 0 3.06201C0 3.06201 0 3.93555 0.867188 3.93555L47.2505 3.93555 47.2505 0.867188C47.2505 0.867188 47.2505 0 46.3804 0">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path y="18.3872" winding="nonZero" ai:seqID="10" data="M63.7158 53.0186 63.7158 7.94531 63.7158 0.871094C63.7158 0.871094 63.7158 0 62.8486 0L17.0234 0C17.0234 0 16.1563 0 16.1563 0.871094L16.1563 7.94531 16.1563 53.0186 0 53.0186 0 56.1953 79.873 56.1953 79.873 53.0186 63.7158 53.0186Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+      <Rect width="80" height="126" ai:seqID="11"/>
+    </Group>
+    <Group visible="false" d:type="layer" d:userLabel="Ausgefahren">
+      <Group y="1.41748" ai:seqID="12">
+        <Path x="16.1563" y="6.58496" winding="nonZero" ai:seqID="13" data="M47.5596 8.21631 47.5596 0.836426C47.5596 0.836426 47.5596 0 46.7168 0L0.840332 0C0.840332 0 0 0 0 0.836426L0 8.21631C0 8.21631 0 9.05859 0.840332 9.05859L46.7168 9.05859C46.7168 9.05859 47.5596 9.05859 47.5596 8.21631">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path x="16.311" winding="nonZero" ai:seqID="14" data="M46.3804 0 0 0 0 3.06201C0 3.06201 0 3.93555 0.867188 3.93555L47.2505 3.93555 47.2505 0.867188C47.2505 0.867188 47.2505 0 46.3804 0">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path y="18.3877" winding="nonZero" ai:seqID="15" data="M79.873 106.195 79.873 103.018 63.7158 103.018 63.7158 0.870117C63.7158 0.870117 63.7158 0 62.8486 0L17.0234 0C17.0234 0 16.1563 0 16.1563 0.870117L16.1563 103.018 0 103.018 0 106.195 79.873 106.195Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+      <Rect width="80" height="126" ai:seqID="16"/>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

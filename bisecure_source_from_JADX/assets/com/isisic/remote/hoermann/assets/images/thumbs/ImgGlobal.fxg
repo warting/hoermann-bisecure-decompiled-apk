@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="63.9995" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="cccc800" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="3.35645" y="3.67529" ai:objID="d538280" ai:seqID="3">
+        <Path x="1.64355" y="1.32471" winding="nonZero" ai:objID="d4c2780" ai:seqID="4" data="M53.9995 27.001C53.9995 41.9141 41.9146 54 27 54 12.0884 54 0 41.9141 0 27.001 0 12.0898 12.0884 0 27 0 41.9146 0 53.9995 12.0898 53.9995 27.001Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Ellipse x="3.76514" y="3.44727" width="49.7568" height="49.7568" ai:objID="d4c2180" ai:seqID="5">
+          <fill>
+            <SolidColor color="#1C3D75"/>
+          </fill>
+        </Ellipse>
+        <Group ai:objID="d538180" ai:seqID="6">
+          <mask>
+            <Group x="1.64355" y="1.32471" ai:spare="1">
+              <Path winding="nonZero" ai:objID="d4bed00" ai:seqID="7" data="M53.9995 27.001C53.9995 41.9141 41.9146 54 27 54 12.0884 54 0 41.9141 0 27.001 0 12.0898 12.0884 0 27 0 41.9146 0 53.9995 12.0898 53.9995 27.001Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+            </Group>
+          </mask>
+          <Group x="12.3496" ai:objID="d537880" ai:seqID="8" d:id="3">
+            <Path x="1.00012" y="0.593262" winding="nonZero" ai:objID="d4bf180" ai:seqID="9" data="M8.97546 0C-2.99182 16.2295 -2.99182 40.1299 8.97546 56.3594">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="16.2936" y="0.593262" winding="nonZero" ai:objID="d4bf000" ai:seqID="10" data="M0.000366211 0C-0.00012207 16.2295 -0.00012207 40.1299 0.000366211 56.3594">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="22.6128" y="0.593262" winding="nonZero" ai:objID="d4bee80" ai:seqID="11" data="M0 0C11.9678 16.2295 11.9678 40.1299 0 56.3594">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+          </Group>
+          <Group y="6.98926" ai:objID="d536480" ai:seqID="12" d:id="4">
+            <Path x="0.463867" y="21.1279" winding="nonZero" ai:objID="d4be580" ai:seqID="13" data="M56.3599 0C38.812 0 17.5483 0 0 0">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="0.463867" y="0.885742" winding="nonZero" ai:objID="d4be700" ai:seqID="14" data="M56.3599 0C38.812 9.19287 17.5483 9.19287 0 0">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+            <Path x="0.463867" y="34.4746" winding="nonZero" ai:objID="d4be880" ai:seqID="15" data="M56.3599 6.89502C38.812 -2.29834 17.5483 -2.29834 0 6.89502">
+              <stroke>
+                <SolidColorStroke weight="2" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+              </stroke>
+            </Path>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I expandBlendsOption 5 B downsampleLinkedImages 0 I preserveGradientPolicy 4 I preserveTextPolicy 4 I preserveFilterPolicy 3 I rasterizeResolution 72 B aiEditCap 1 B includeXMP 0 B includeSymbol 0 I versionKey 2 B writeImages 1 B includeObjectOutsideArtboard 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgGlobal.assets/images" globalOffsetH="274.516" globalOffsetV="-39" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 5 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="F16DBD732691292B2C4D60DD7A55D0CE" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="FE8565FD20AB270F16660F2C71FFA8E1" d:ref="#3">
+        <ai:Group x="12.35">
+          <ai:Line knockout="0" xFrom="9.976" xTo="9.976" yFrom="0.593" yTo="56.953">
+            <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+          </ai:Line>
+          <ai:Line knockout="0" xFrom="16.294" xTo="16.294" yFrom="0.593" yTo="56.953">
+            <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+          </ai:Line>
+          <ai:Line knockout="0" xFrom="22.613" xTo="22.613" yFrom="0.593" yTo="56.953">
+            <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+          </ai:Line>
+          <ai:ArtStyle>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Deform">
+                <ai:Dict data="B Rotate 1 I DeformStyle 5 R DeformHoriz 0 R DeformVert 0 R DeformValue 0.45 ">
+                  <ai:Entry name="DisplayString" value="Verkr" valueType="S"/>
+                </ai:Dict>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Group>
+      </ai:PrivateElement>
+      <ai:PrivateElement alternate="1" flm:hashcode="F34483D8EF5AC1BE9003CB501029DD1F" d:ref="#4">
+        <ai:Group y="6.989">
+          <ai:Group x="0.464" y="20.128">
+            <ai:Line knockout="0" xFrom="56.36" xTo="0" yFrom="1" yTo="1">
+              <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+            </ai:Line>
+          </ai:Group>
+          <ai:Group x="0.464" y="-0.114">
+            <ai:Line knockout="0" xFrom="56.36" xTo="0" yFrom="1" yTo="1">
+              <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+            </ai:Line>
+          </ai:Group>
+          <ai:Group x="0.464" y="40.37">
+            <ai:Line knockout="0" xFrom="56.36" xTo="0" yFrom="1" yTo="1">
+              <ai:Stroke color="1 0 0 0 0" miterLimit="10" weight="2"/>
+            </ai:Line>
+          </ai:Group>
+          <ai:ArtStyle>
+            <ai:LiveEffects>
+              <ai:LiveEffect index="0" isPre="1" major="1" minor="0" name="Adobe Deform">
+                <ai:Dict data="B Rotate 0 I DeformStyle 5 R DeformHoriz 0 R DeformVert 0 R DeformValue -0.32 ">
+                  <ai:Entry name="DisplayString" value="Verkr" valueType="S"/>
+                </ai:Dict>
+              </ai:LiveEffect>
+            </ai:LiveEffects>
+          </ai:ArtStyle>
+        </ai:Group>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

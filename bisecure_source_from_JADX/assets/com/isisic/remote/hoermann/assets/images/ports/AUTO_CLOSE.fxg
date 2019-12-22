@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="85" viewWidth="84" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="85" d:pageWidth="84" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group blendMode="normal" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="-3" y="-1" blendMode="normal" ai:seqID="1">
+        <Group blendMode="normal" ai:seqID="2">
+          <BitmapImage blendMode="multiply" alpha="0.75" source="@Embed('AUTO_CLOSE.assets/images/Image_0003.png')" fillMode="clip" ai:seqID="3"/>
+          <Group x="3" y="4" ai:seqID="4">
+            <Group ai:seqID="5">
+              <Path winding="nonZero" ai:seqID="6" data="M70 35C70 54.332 54.334 70 35 70 15.6699 70 0 54.332 0 35 0 15.6719 15.6699 0 35 0 54.334 0 70 15.6719 70 35Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+              <Path x="6" y="6" winding="nonZero" ai:seqID="7" data="M58 29C58 45.0156 45.0146 58 29 58 12.9883 58 0 45.0156 0 29 0 12.9805 12.9883 0 29 0 45.0146 0 58 12.9805 58 29Z">
+                <fill>
+                  <SolidColor color="#003A7D"/>
+                </fill>
+              </Path>
+              <Path x="6" y="6" winding="nonZero" ai:seqID="8" data="M58 29C58 45.0156 45.0146 58 29 58 12.9883 58 0 45.0156 0 29 0 12.9805 12.9883 0 29 0 45.0146 0 58 12.9805 58 29Z">
+                <fill>
+                  <SolidColor color="#003A7D"/>
+                </fill>
+              </Path>
+              <Path x="31.002" y="30.998" winding="nonZero" ai:seqID="9" data="M8 4.00195C8 6.21094 6.20996 8 3.99805 8 1.79004 8 0 6.21094 0 4.00195 0 1.78906 1.79004 0 3.99805 0 6.20996 0 8 1.78906 8 4.00195Z">
+                <fill>
+                  <SolidColor color="#FFFFFF"/>
+                </fill>
+              </Path>
+            </Group>
+          </Group>
+        </Group>
+        <Path x="38" y="14" winding="nonZero" ai:seqID="10" data="M0 25 25 25C25 11.1914 13.8057 0 0 0L0 25Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

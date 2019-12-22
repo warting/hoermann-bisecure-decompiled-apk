@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="adview">false</item>
+    <item type="id" name="filename">false</item>
+    <item type="id" name="filepath">false</item>
+    <item type="id" name="filecheck">false</item>
+    <item type="id" name="file_save_panel">false</item>
+    <item type="id" name="file_save_label">false</item>
+    <item type="id" name="file_save_button">false</item>
+    <item type="id" name="file_save_name">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="button_ok">false</item>
+    <item type="id" name="button_cancel">false</item>
+    <item type="id" name="Header">false</item>
+    <item type="id" name="ROW1">false</item>
+    <item type="id" name="WarningImage">false</item>
+    <item type="id" name="ROW2">false</item>
+    <item type="id" name="ServerName">false</item>
+    <item type="id" name="Line1">false</item>
+    <item type="id" name="Footer">false</item>
+    <item type="id" name="CertificateDetails">false</item>
+    <item type="id" name="Line2">false</item>
+    <item type="id" name="TrustQuestion">false</item>
+    <item type="id" name="NeutralButton">false</item>
+    <item type="id" name="NegativeButton">false</item>
+    <item type="id" name="PositiveButton">false</item>
+</resources>

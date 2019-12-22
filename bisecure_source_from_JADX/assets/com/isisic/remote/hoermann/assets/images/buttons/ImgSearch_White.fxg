@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="64" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="d39d200" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Path x="4.50024" y="4.5" winding="nonZero" ai:objID="d4c6680" ai:seqID="3" data="M54.3445 46.4053 43.9753 36.0332C43.0632 35.124 41.4119 35.21 39.7566 36.0723L35.2322 31.5498C41.1267 23.8506 40.5701 12.7959 33.5251 5.75098 25.8552 -1.91699 13.4211 -1.91699 5.75024 5.75098 -1.91675 13.4219 -1.91675 25.8569 5.75024 33.5273 12.7971
+ 40.5732 23.8503 41.1289 31.5496 35.2334L36.073 39.7539C35.2117 41.4131 35.1238 43.0625 36.033 43.9746L46.4031 54.3467C47.7126 55.6553 50.5583 54.9365 52.7449 52.7422 54.9373 50.5537 55.656 47.7139 54.3445 46.4053ZM8.67114 30.6084C2.61597 24.5483
+ 2.61597 14.7261 8.67114 8.67139 14.7307 2.61084 24.5432 2.6167 30.6062 8.67139 36.6619 14.7261 36.6619 24.5449 30.6062 30.6084 24.5432 36.6631 14.7253 36.6631 8.67114 30.6084Z">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Path>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B includeObjectOutsideArtboard 0 I versionKey 2 B includeXMP 0 B writeImages 1 B includeSymbol 0 B aiEditCap 1 B downsampleLinkedImages 0 I rasterizeResolution 72 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I preserveTextPolicy 4 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgSearch_White.assets/images" rulerCanvasDiffH="32.5" rulerCanvasDiffV="32.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 0 B alis 0 I dpi. 72 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="1C39BB0B0B53CD5000DE4885BE5A8EEE" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

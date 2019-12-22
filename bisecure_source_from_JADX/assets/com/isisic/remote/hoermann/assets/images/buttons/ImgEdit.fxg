@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="64" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="11130d80" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="5" y="5" ai:objID="1112fa80" ai:seqID="3">
+        <Rect width="53.998" height="53.998" ai:objID="11040880" ai:seqID="4"/>
+        <Group x="5.93213" y="6.06201" ai:objID="1112e080" ai:seqID="5">
+          <Path x="7.18018" y="11.7036" winding="nonZero" ai:objID="1103d580" ai:seqID="6" data="M13.2217 0 0 13.3545C0 13.3545 1.13965 14.4297 4.07129 14.3008 4.69873 15.6348 5.29102 17.207 8.71436 18.8154 8.57568 21.6084 9.92041 23.1758 9.92041 23.1758L23.1504 9.83301C22.9912 8.01465 21.6289 5.74707 19.4688 3.61133 16.5146 0.685059 14.0439
+ 0.115234 13.2217 0Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Path x="28.5229" y="6.10352e-005" winding="nonZero" ai:objID="1103fe00" ai:seqID="7" data="M11.0078 2.15277C7.125 -1.02887 4.44238 -0.0957642 3.07422 1.22113 2.60059 1.68011 1.09863 2.89105 0 3.77045 1.23633 3.85004 3.71973 4.38324 6.44922 7.08295 9.16309 9.76849 9.67871 12.0659 9.70898 13.3471 10.6328 12.1552 12.0801 10.287 12.3047
+ 10.0605 13.7988 8.53949 14.8906 5.33539 11.0078 2.15277Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Path y="27.0161" winding="nonZero" ai:objID="1103f800" ai:seqID="8" data="M9.31641 0.580078C6.6958 0.586914 6.08398 0 6.08398 0L0 15.2461 15.1855 8.9375C15.1855 8.9375 13.981 6.55176 14.0112 5.27441 12.9497 4.9375 10.1685 3.24609 9.31641 0.580078Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Path x="25.3091" y="5.2366" winding="nonZero" ai:objID="1103d400" ai:seqID="9" data="M1.50684 0.000211716 0 1.48312C0 1.48312 2.87793 1.95138 6.28906 5.33273 8.43066 7.45871 9.58691 9.70578 9.79297 11.2776L11.2314 9.84103C11.2314 9.84103 11.7324 7.24093 8.03223 3.54318 4.39746 -0.0915852 1.50684 0.000211716 1.50684 0.000211716Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+          <Path x="22.5308" y="8.56912" winding="nonZero" ai:objID="1103ff80" ai:seqID="10" data="M1.44141 0.000213623 0 1.41965C0 1.41965 2.75781 1.86838 6.02148 5.10812 8.07129 7.14084 9.17871 9.29221 9.37793 10.7966L10.7529 9.41867C10.7529 9.41867 11.2324 6.93088 7.69141 3.39035 4.21191 -0.0891418 1.44141 0.000213623 1.44141 0.000213623Z">
+            <fill>
+              <SolidColor color="#999999"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B includeSymbol 0 B includeXMP 0 I versionKey 2 B aiEditCap 1 B includeObjectOutsideArtboard 0 I preserveTextPolicy 4 I preserveFilterPolicy 3 I preserveGradientPolicy 4 I rasterizeResolution 72 B downsampleLinkedImages 0 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgEdit.assets/images" rulerCanvasDiffH="32.5" rulerCanvasDiffV="32.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="CC39014F4C80C7DDE2854137DCC716FD" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

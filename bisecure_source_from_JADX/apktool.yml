@@ -1,0 +1,44 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: bisecure.apk
+compressionType: false
+doNotCompress:
+- assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.UDPSocket/library.swf
+- assets/META-INF/AIR/extensions/be.aboutme.nativeExtensions.udp.UDPSocket/META-INF/ANE/Android-ARM/library.swf
+- assets/com/isisic/remote/hoermann/assets/images/ImgSplash.assets/images/Image_0002.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE.assets/images/Image_0001.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE.assets/images/Image_0002.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/AUTO_CLOSE.assets/images/Image_0003.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/DOWN.assets/images/Image_0001.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/HALF.assets/images/Image_0001.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS.assets/images/Image_0001.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/IMPULS_SHORT.assets/images/Image_0001.png
+- png
+- assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT.assets/images/Image_0002.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.assets/images/Image_0002.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/LIGHT2.assets/images/Image_0002_0002.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/LOCK.assets/images/Image_0003.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/OPEN_DOOR.assets/images/Image_0003.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/SINK.assets.images/Image_0001.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/UNLOCK.assets/images/Image_0003.png
+- assets/com/isisic/remote/hoermann/assets/images/ports/UP.assets/images/Image_0001.png
+- txt
+- gif
+- res/raw/debuginfo
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '27'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '1003039'
+  versionName: 1.3.39

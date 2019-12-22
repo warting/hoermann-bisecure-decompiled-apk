@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="64" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="cfd1b80" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group y="-0.00292969" ai:objID="18032900" ai:seqID="3">
+        <Path x="28.4585" y="15.0552" winding="nonZero" ai:objID="d286d80" ai:seqID="4" data="M6.04443 0.671875C5.72217 0.424316 5.34912 0.248047 4.91943 0.148926 4.49365 0.050293 4.03662 0 3.55273 0 3.06787 0 2.60742 0.050293 2.17334 0.148926 1.73828 0.248047 1.36133 0.424316 1.03809 0.671875 0.717773 0.92041 0.464844 1.25049 0.278809
+ 1.65576 0.09375 2.0625 0 2.57373 0 3.18652 0 3.78516 0.09375 4.29199 0.278809 4.70313 0.464844 5.11865 0.717773 5.45166 1.03809 5.69971 1.36133 5.94727 1.73828 6.12891 2.17334 6.23438 2.60742 6.34033 3.06787 6.39453 3.55273 6.39453 4.03662 6.39453
+ 4.49365 6.34033 4.91943 6.23438 5.34912 6.12891 5.72217 5.94727 6.04443 5.69971 6.36377 5.45166 6.62451 5.11865 6.81396 4.70313 7.00439 4.29199 7.10303 3.78516 7.10303 3.18652 7.10303 2.57373 7.00439 2.0625 6.81396 1.65576 6.62451 1.25049 6.36377
+ 0.92041 6.04443 0.671875Z">
+          <fill>
+            <SolidColor color="#333333"/>
+          </fill>
+        </Path>
+        <Rect x="28.7373" y="24.4229" width="6.52734" height="23.9131" ai:objID="d286c00" ai:seqID="5">
+          <fill>
+            <SolidColor color="#333333"/>
+          </fill>
+        </Rect>
+        <Path winding="nonZero" ai:objID="d286900" ai:seqID="6" data="M31.9971 0C14.354 0 0 14.3564 0 32.0039 0 49.6504 14.354 64.0059 31.9971 64.0059 49.6426 64.0059 64 49.6504 64 32.0039 64 14.3564 49.6426 0 31.9971 0ZM31.9971 59.3848C16.9019 59.3848 4.62109 47.1016 4.62109 32.0039 4.62109 16.9048 16.9019 4.62109
+ 31.9971 4.62109 47.0947 4.62109 59.3779 16.9048 59.3779 32.0039 59.3779 47.1016 47.0947 59.3848 31.9971 59.3848Z">
+          <fill>
+            <SolidColor color="#333333"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B downsampleLinkedImages 0 I rasterizeResolution 72 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I preserveTextPolicy 4 I expandBlendsOption 5 B aiEditCap 1 B writeImages 1 I versionKey 2 B includeXMP 0 B includeSymbol 0 B includeObjectOutsideArtboard 0 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgInfo.assets/images" rulerCanvasDiffH="32.5" rulerCanvasDiffV="32.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 0 B alis 0 I dpi. 72 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="CE2A5EE93DFCE8CC2A0117CC9C2BD029" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

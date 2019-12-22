@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="12e10700" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Path x="1" y="7" winding="nonZero" ai:objID="17f9f100" ai:seqID="3" data="M0 131 495 131 495 0 591 0 591 131 612 131">
+        <stroke>
+          <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+        </stroke>
+      </Path>
+      <Group x="504" y="15" ai:objID="1335ea00" ai:seqID="4" flm:knockout="false">
+        <Rect width="80" height="126" ai:objID="17f9f280" ai:seqID="5">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Rect>
+      </Group>
+      <Rect x="514" y="47" width="4" height="60" ai:objID="17f9f700" ai:seqID="6">
+        <fill>
+          <SolidColor color="#1C3D75"/>
+        </fill>
+      </Rect>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="I versionKey 2 B aiEditCap 1 B includeXMP 0 B includeSymbol 0 B writeImages 1 B includeObjectOutsideArtboard 0 I preserveGradientPolicy 4 I expandBlendsOption 5 B downsampleLinkedImages 0 I preserveFilterPolicy 3 I preserveTextPolicy 4 I rasterizeResolution 72 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="DOOR.assets/images" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 5 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="8FBC1A83F9EF60FC9840400DF01E6083" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="141.73" viewWidth="612.28" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="141.73" d:pageWidth="612.28" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group visible="false" ai:objID="15632d80" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 2">
+      <Rect x="-36" y="-46" width="674" height="231" ai:objID="cb19200" ai:seqID="3">
+        <fill>
+          <SolidColor color="#FF8080"/>
+        </fill>
+      </Rect>
+    </Group>
+    <Group ai:objID="15633880" ai:seqID="4" d:id="3" d:type="layer" d:userLabel="Ebene 1">
+      <Group y="51.9199" ai:objID="15633f80" ai:seqID="5">
+        <Path y="6.69824" winding="nonZero" ai:objID="cb11a00" ai:seqID="6" data="M0 80 419 80 419 0 440 0 440 83">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Path x="569" y="6.69824" winding="nonZero" ai:objID="cb0ff00" ai:seqID="7" data="M0 83 0 0 21 0 21 80 43 80">
+          <stroke>
+            <SolidColorStroke weight="6" caps="none" joints="miter" miterLimit="10" color="#FFFFFF"/>
+          </stroke>
+        </Path>
+        <Group x="449" ai:objID="15637380" ai:seqID="8" flm:knockout="false">
+          <Path y="0.000236511" winding="nonZero" ai:objID="153cc180" ai:seqID="9" data="M13 74.655C13 76.3054 11.9502 78.5037 10.666 79.5398L2.33398 86.2703C1.05078 87.3064 0 86.8054 0 85.155L0 12.155C0 10.5051 1.05078 8.30689 2.33398 7.27027L10.666 0.539803C11.9502 -0.496819 13 0.00513458 13 1.65504L13 74.655Z">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B aiEditCap 1 I versionKey 2 B writeImages 1 B includeXMP 0 B includeSymbol 0 B includeObjectOutsideArtboard 0 B downsampleLinkedImages 0 I rasterizeResolution 72 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I preserveTextPolicy 4 I expandBlendsOption 5 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="SWING_GATE_SINGLE.assets/images" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="7A3EF49388719FAE2E4310562B2CCBFC" d:ref="#2">
+        <ai:LayerOptions color="5 257 79.31 79.31" visible="0"/>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="5B0D515597C2DD849FAA3128954AAD83" d:ref="#3">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>

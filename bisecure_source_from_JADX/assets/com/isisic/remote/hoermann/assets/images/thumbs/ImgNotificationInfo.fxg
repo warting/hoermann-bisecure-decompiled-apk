@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="32" viewWidth="32" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="32" d:pageWidth="32" d:type="layer" d:userLabel="Artboard 1">
+    <Group d:type="layer" d:userLabel="Layer 1">
+      <Rect x="8.25" y="3.3125" width="14.6875" height="24.9375" ai:seqID="1">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+      </Rect>
+      <Path winding="nonZero" ai:seqID="2" data="M16.002 0C7.16699 0 0 7.16357 0 15.9985 0 24.8359 7.16699 32 16 32 24.8389 32 32 24.8359 32 15.9985 32.002 7.1626 24.8389 0 16.002 0ZM18.7871 26.9219 13.2261 26.9219 13.2261 13.606 18.7871 13.606 18.7871 26.9219ZM16.002 11.2769C14.2886 11.2769
+ 12.8994 9.8916 12.8994 8.17676 12.8994 6.46387 14.2886 5.07178 16.002 5.07178 17.7148 5.07178 19.1035 6.46387 19.1035 8.17676 19.1035 9.8916 17.7148 11.2769 16.002 11.2769Z">
+        <fill>
+          <SolidColor color="#00682C"/>
+        </fill>
+      </Path>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

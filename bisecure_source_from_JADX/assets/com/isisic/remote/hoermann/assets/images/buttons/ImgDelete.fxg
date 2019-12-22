@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="64" viewWidth="63.9995" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:id="1" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:artboardActive="1" ai:artboardIndex="0" ai:seqID="1" d:layerType="page" d:pageHeight="64" d:pageWidth="64" d:type="layer" d:userLabel="Zeichenfläche 1">
+    <Group ai:objID="ca6af00" ai:seqID="2" d:id="2" d:type="layer" d:userLabel="Ebene 1">
+      <Group x="15" y="5" ai:objID="ca69600" ai:seqID="3" d:userLabel="Discard/Delete — Used to delete one or more data items from your data set.">
+        <Path x="2.24658" y="21.3257" winding="nonZero" ai:objID="d102700" ai:seqID="4" data="M32.9355 0.645996C32.8994 0.424316 32.7646 0.20752 32.5605 0 30.9258 1.66162 24.3438 1.93652 16.4756 1.93652 8.60791 1.93652 2.03223 1.66162 0.389648 0 0.1875 0.20752 0.0615234 0.424316 0.0151367 0.645996L0 0.645996 0.00439453 0.766113C0.00439453
+ 0.780273 0 0.794434 0 0.807617 0 0.839844 0.00976563 0.869141 0.0136719 0.899414L1.29492 27.1401 1.29785 27.1401C1.41113 29.1978 3.76758 32.3071 16.4756 32.3071 29.1865 32.3071 31.543 29.1978 31.6543 27.1401L31.6631 27.1401 32.9443 0.899414C32.9473
+ 0.869141 32.958 0.839844 32.958 0.807617 32.958 0.794434 32.9473 0.780273 32.9473 0.766113L32.958 0.645996 32.9355 0.645996Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+        <Path winding="nonZero" ai:objID="d0ffe80" ai:seqID="5" data="M26.5542 8.23828 26.5542 2.04248C26.5542 0.922363 25.6382 0 24.5122 0L12.2495 0C11.1328 0 10.2119 0.922363 10.2119 2.04248L10.2119 8.30859C4.14941 8.99561 0 10.3877 0 12.001L0 15.064C0 15.6929 0.635742 16.2905 1.77734 16.8301 4.76758 18.2349 11.2314
+ 19.2104 18.7222 19.2104 26.2192 19.2104 32.6802 18.2349 35.6743 16.8301 36.8081 16.2905 37.4517 15.6929 37.4517 15.064L37.4517 12.001C37.4517 10.3311 32.9819 8.89502 26.5542 8.23828ZM14.1323 7.98193 13.6157 8.01465 13.6157 5.44775C13.6157 4.32471
+ 13.772 3.40576 13.9565 3.40576 14.147 3.40576 15.2183 3.40576 16.3413 3.40576L20.4272 3.40576C21.5464 3.40576 22.6216 3.40576 22.8091 3.40576 22.9976 3.40576 23.1509 4.32471 23.1509 5.44775L23.1509 7.97314C21.729 7.89893 20.2524 7.85303 18.7222
+ 7.85303 17.1372 7.85303 15.5981 7.89893 14.1323 7.98193Z">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+        </Path>
+      </Group>
+    </Group>
+  </Group>
+  <Private>
+      <ai:PrivateElement d:ref="#1">
+        <ai:SaveOptions>
+          <ai:Dict data="B writeImages 1 B aiEditCap 1 B includeXMP 0 I versionKey 2 B includeSymbol 0 B includeObjectOutsideArtboard 0 I preserveFilterPolicy 3 I preserveTextPolicy 4 I preserveGradientPolicy 4 B downsampleLinkedImages 0 I expandBlendsOption 5 I rasterizeResolution 72 "/>
+        </ai:SaveOptions>
+        <ai:DocData base="ImgDelete.assets/images" globalOffsetH="274.516" globalOffsetV="-39" rulerCanvasDiffH="306.5" rulerCanvasDiffV="71.5">
+          <ai:DocRasterSettings>
+            <ai:Dict data="R padd 36 B mask 0 B spot 1 B alis 0 I dpi. 300 I colr 4 "/>
+          </ai:DocRasterSettings>
+        </ai:DocData>
+        <ai:AutoGenImageList>
+          <ai:Dict/>
+        </ai:AutoGenImageList>
+      </ai:PrivateElement>
+      <ai:PrivateElement flm:hashcode="7A9D6898FF02868537CA44BE11C671E3" d:ref="#2">
+        <ai:LayerOptions color="5 79.31 257 128.502"/>
+      </ai:PrivateElement>
+    </Private>
+  </Graphic>
